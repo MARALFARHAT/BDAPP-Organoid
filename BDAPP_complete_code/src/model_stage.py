@@ -1,4 +1,13 @@
 # Maral Farhatnejad | Student ID: 23012856 | BDAPP
+"""Exploratory six-hour baselines from BDAPP_model_inputs.zip.
+
+Run locally:
+  python model_stage.py --input F:/BDAPP-Organoid/outputs/BDAPP_model_inputs.zip
+
+Targets describe an aggregate experiment. They do not establish an individual
+organoid's biological health, independently verified death, or remaining life.
+Only explicitly whitelisted activity/environment features enter neural models.
+"""
 from __future__ import annotations
 import argparse
 from datetime import datetime, timezone
@@ -75,6 +84,8 @@ def prepare(archive, experiment):
     for col in ["detected_events", "stimulation_records"]:
         if df[col].dropna().lt(0).any():
             raise ValueError(f"{experiment}: negative record counts")
+    # The whole feature window precedes the target assessment at its end.
+    # Coverage is still unknown; this is not evidence of six observed hours.
     df["assessment_utc"] = df.window_start + pd.Timedelta(hours=6)
     df["experiment_id"] = experiment
     df["batch_calendar_age_days"] = (df.assessment_utc - birth).dt.total_seconds() / 86400
@@ -120,6 +131,7 @@ def evaluate(protocol, training, testing):
             if any(training[c].notna().sum() == 0 for c in features):
                 raise ValueError(f"No training observations for {name}")
             model = make_model(kind)
+            # Fitting the pipeline only here prevents test-set scaling/imputation.
             model.fit(training[features], training[target])
             estimate = model.predict(testing[features])
             truth = testing[target].to_numpy()
@@ -195,6 +207,7 @@ def run(input_zip, out):
     boundary = int(np.floor(len(training) * .8))
     if training.assessment_utc.max() >= testing.window_start.min():
         raise ValueError("Unexpected source/test temporal overlap")
+    # One full clock window embargo, even when eligible rows contain gaps.
     test_late = training.iloc[boundary:].copy()
     cutoff = test_late.window_start.min() - pd.Timedelta(hours=6)
     train_early = training.loc[training.assessment_utc.le(cutoff)].copy()

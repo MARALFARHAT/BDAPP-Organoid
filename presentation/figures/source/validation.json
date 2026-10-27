@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "figures": 22,
+  "png_dimensions": [
+    3840,
+    2160
+  ],
+  "svg_xml_valid": 22,
+  "pdf_pages": 22,
+  "visual_review": "All 22 figures reviewed in PNG and rendered PDF. Label collision in protocol comparison corrected. No remaining text outside the canvas.",
+  "numeric_review": "FinalSpark row totals, event-containing hours and all-negative primary R2 checked. Culture-age prediction MAE/R2 reconciled with raw saved predictions. Cohort/group totals checked.",
+  "scientific_scope": "Figures distinguish batch calendar age, days post dissociation, recorded experiment endpoint and unvalidated individual functional lifespan. Conceptual diagrams are labeled. Raster uses actual event times."
+}

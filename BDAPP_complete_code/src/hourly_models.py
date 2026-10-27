@@ -1,4 +1,5 @@
 # Maral Farhatnejad | Student ID: 23012856 | BDAPP
+"""Fixed exploratory model comparisons for FinalSpark_hourly_summary.zip."""
 from pathlib import Path
 from datetime import datetime, timezone
 import argparse, hashlib, io, json, platform, zipfile
@@ -60,6 +61,7 @@ def prepare(z, experiment):
         raise ValueError("Duplicate windows or incorrect assessment times")
     if int(d.detected_events.sum()) != audit["source_rows"] - audit["invalid_time_or_channel_rows"]:
         raise ValueError("Source/event-count audit mismatch")
+    # Recompute labels from metadata rather than trusting the prepared targets.
     birth, start, endpoint = [pd.Timestamp(m[k], tz="UTC") for k in ["Batch Start", "Date", "Dead Date"]]
     actual_labels = [(d.assessment_utc - birth).dt.total_seconds() / 86400,
                      (endpoint - d.assessment_utc).dt.total_seconds() / 86400]

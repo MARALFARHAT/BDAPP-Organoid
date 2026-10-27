@@ -1,0 +1,9 @@
+# Preserve exact source snapshots and checksums across Windows and Linux.
+* -text
+
+# Treat binary artifacts as binary in diffs.
+*.zip binary
+*.png binary
+*.jpeg binary
+*.jpg binary
+*.pdf binary

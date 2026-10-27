@@ -1,0 +1,90 @@
+[
+  {
+    "figure": "01_research_goal",
+    "text_outside_canvas": []
+  },
+  {
+    "figure": "02_data_tracks",
+    "text_outside_canvas": []
+  },
+  {
+    "figure": "03_processing_workflow",
+    "text_outside_canvas": []
+  },
+  {
+    "figure": "04_target_definitions",
+    "text_outside_canvas": []
+  },
+  {
+    "figure": "05_feature_families",
+    "text_outside_canvas": []
+  },
+  {
+    "figure": "06_real_event_raster",
+    "text_outside_canvas": []
+  },
+  {
+    "figure": "07_event_record_missingness",
+    "text_outside_canvas": []
+  },
+  {
+    "figure": "08_activity_and_temperature",
+    "text_outside_canvas": []
+  },
+  {
+    "figure": "09_finalspark_dataset_shift",
+    "text_outside_canvas": []
+  },
+  {
+    "figure": "10_finalspark_primary_model_results",
+    "text_outside_canvas": []
+  },
+  {
+    "figure": "11_labeled_age_dataset",
+    "text_outside_canvas": []
+  },
+  {
+    "figure": "12_grouped_validation",
+    "text_outside_canvas": []
+  },
+  {
+    "figure": "13_age_benchmark_main_result",
+    "text_outside_canvas": []
+  },
+  {
+    "figure": "14_age_benchmark_robustness",
+    "text_outside_canvas": []
+  },
+  {
+    "figure": "15_age_actual_vs_predicted",
+    "text_outside_canvas": []
+  },
+  {
+    "figure": "16_age_prediction_bias",
+    "text_outside_canvas": []
+  },
+  {
+    "figure": "17_dandi_descriptive_activity",
+    "text_outside_canvas": []
+  },
+  {
+    "figure": "18_zenodo_descriptive_activity",
+    "text_outside_canvas": []
+  },
+  {
+    "figure": "19_supported_conclusions",
+    "text_outside_canvas": []
+  },
+  {
+    "figure": "20_supplement_finalspark_ablations",
+    "text_outside_canvas": []
+  },
+  {
+    "figure": "21_supplement_age_fold_variability",
+    "text_outside_canvas": []
+  },
+  {
+    "figure": "22_supplement_feature_range_shift",
+    "text_outside_canvas": []
+  }
+]

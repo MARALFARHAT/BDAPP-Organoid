@@ -1,4 +1,5 @@
 # Maral Farhatnejad | Student ID: 23012856 | BDAPP
+"""One-hour event features from FinalSpark exports; raw waveforms are never opened."""
 from pathlib import Path
 from datetime import datetime, timezone
 import argparse
@@ -86,6 +87,7 @@ def process(source, experiment, folder, max_events):
     with pd.HDFStore(str(source), "r") as store:
         key = f"/{prefix}_wholelife_events"
         total = store.get_storer(key).nrows
+        # A conservative disk allowance for fixed-width event partitions.
         needed = int(total) * RECORD.itemsize + 256 * 1024 ** 2
         if shutil.disk_usage(folder).free < needed:
             raise OSError(f"Need approximately {needed / 1024**3:.2f} GiB free for temporary event partitions")
@@ -134,6 +136,8 @@ def process(source, experiment, folder, max_events):
                 dates = utc(part.time_of_stim)
                 for t, n in dates.dropna().dt.floor("h").value_counts().items():
                     stim_counts[t] = stim_counts.get(t, 0) + int(n)
+            # These zeros mean no records in the complete exported table,
+            # not independently verified absence of electrical stimulation.
             result["export_stimulation_records"] = [stim_counts.get(t, 0) for t in result.index]
         else:
             result["export_stimulation_records"] = np.nan
@@ -180,7 +184,7 @@ def process(source, experiment, folder, max_events):
                   "eligible_hours": int(result.eligible_for_exploratory_model.sum()),
                   "memory_guard_hours": int(result.feature_status.eq("count_only_memory_guard").sum())})
     (folder / "extraction_audit.json").write_text(json.dumps(stats, indent=2), encoding="utf-8")
-    shutil.rmtree(spool)
+    shutil.rmtree(spool)  # Only temporary partitions generated in this run.
     print(experiment, stats, flush=True)
     return result
 

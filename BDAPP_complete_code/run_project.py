@@ -1,4 +1,9 @@
 # Maral Farhatnejad | Student ID: 23012856 | BDAPP
+"""Reproduce model comparisons from the included derived inputs and audit them.
+
+Default execution never rescans the large source recordings. Raw-data readers
+are separate scripts under src; see README.md for their commands.
+"""
 from pathlib import Path
 from datetime import datetime, timezone
 import argparse

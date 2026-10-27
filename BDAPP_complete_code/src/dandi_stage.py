@@ -1,4 +1,9 @@
 # Maral Farhatnejad | Student ID: 23012856 | BDAPP
+"""Descriptive reader for the verified DANDI 002020 conversion (version 0.261004.1410).
+
+Reads detected_spikes DynamicTable, NOT a sorted Units table. No model training,
+biological culture-age inference, waveform reads, or FinalSpark data pooling.
+"""
 from __future__ import annotations
 import argparse
 from collections import Counter
@@ -50,6 +55,7 @@ def scalar(handle, key, default=None):
 
 
 def update_channel(state, times):
+    """Update pooled ISI moments and fixed-ISI bursts across chunk boundaries."""
     previous = state["last"]
     intervals = np.diff(times if previous is None else np.r_[previous, times])
     if (intervals < 0).any():
@@ -113,6 +119,7 @@ def inspect_file(path, chunk_rows=100_000):
                 values = values[np.isfinite(values)]
                 amp_sum += float(np.abs(values).sum())
                 amp_valid += len(values)
+            # Stable grouping preserves chronological order within each channel.
             order = np.argsort(channels, kind="stable")
             sorted_channels, sorted_times = channels[order], times[order]
             boundaries = np.r_[0, np.flatnonzero(np.diff(sorted_channels) != 0) + 1, len(times)]

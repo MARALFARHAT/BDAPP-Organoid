@@ -1,4 +1,13 @@
 # Maral Farhatnejad | Student ID: 23012856 | BDAPP
+r"""Process FinalSpark event exports locally, without opening raw waveform files.
+
+Example:
+  python .\src\run_finalspark.py --dataset FS369
+  python .\src\run_finalspark.py --dataset FS437
+
+Outputs describe recorded events. Recording exposure, biological age, and
+death endpoints are not inferred from the first or last recorded event.
+"""
 from __future__ import annotations
 
 import argparse
@@ -33,6 +42,7 @@ def log(message):
 
 
 def timestamps(values):
+    # Numeric epochs require explicit units. Never assume nanoseconds.
     if pd.api.types.is_numeric_dtype(values.dtype):
         raise ValueError("Numeric timestamps found. Units must be verified first.")
     return pd.to_datetime(values, errors="coerce", utc=True)
@@ -142,6 +152,7 @@ def process(store, dataset, out, chunk_rows=100_000, hours=6):
             warnings.append(f"{metric}: environmental table is absent.")
             continue
         log(f"{dataset}: processing incubator {metric}")
+        # Aggregate per incubator and window across chunks, including min/max.
         buckets = {}
         env_audit = {"source_rows": 0, "invalid_time_or_value_rows": 0,
                      "missing_incubator_rows": 0}

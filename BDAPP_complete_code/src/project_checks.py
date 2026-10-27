@@ -1,4 +1,9 @@
 # Maral Farhatnejad | Student ID: 23012856 | BDAPP
+"""Independent consistency checks for the packaged data and model outputs.
+
+These checks verify data bookkeeping and evaluation calculations. They do not
+verify acquisition coverage, biological labels, or scientific validity.
+"""
 from pathlib import Path
 import hashlib
 import io
@@ -102,6 +107,7 @@ def check_inputs(project):
         require(int(data.detected_events.sum()) == status['detected_events'], 'Zenodo total mismatch')
         require(data.experiment_prefix.nunique() == status['experiment_prefixes'], 'Zenodo prefix mismatch')
         affected = data[data.amplitude_mismatch_channel_count.gt(0)]
+        # All eight channels are affected in this particular source recording.
         require(affected.organoid_id.tolist() == ['fs417-org0'], 'Unexpected Zenodo amplitude audit')
         require(int(affected.detected_events.sum()) == 33096 and int(affected.valid_amplitude_events.sum()) == 0,
                 'Zenodo valid times or withheld amplitudes changed')

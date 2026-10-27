@@ -1,0 +1,198 @@
+BDAPP PRESENTATION FIGURES
+Maral Farhatnejad, student ID 23012856
+
+22 figures for different parts of the presentation.
+
+FORMATS
+PNG: 3840 x 2160 pixels, white background. Insert these directly into slides.
+SVG: vector graphics for sharp resizing. Text is outlined to preserve appearance.
+BDAPP_Figure_Overview.pdf: all 22 figures, one per landscape page.
+preview: four contact sheets for browsing.
+source/generate_figures.py: the reproducible plotting script.
+data: numeric source tables used for these exact figures.
+
+The figures share one visual style: dark ink, teal, purple, gray and muted gold.
+These are presentation assets, not a completed slide deck. Select figures as needed.
+
+A CONCISE PRESENTATION PATH
+Motivation: 01.
+Data: 02, with 11 if discussing the added labeled benchmark in detail.
+Methods: 03 and 12. Figure 04 explains the original FinalSpark targets.
+Original results: 09 and 10.
+Age extension: 13 and 15.
+Limits and conclusion: 16 and 19.
+Optional supporting material: 05-08, 14, 17-18, 20-22.
+
+INTERPRETATION RULES
+- The FinalSpark age label is calendar time since batch creation.
+- The endpoint label is time to a recorded experiment endpoint, not individual death.
+- The added KCL target is days after dissociation, from five-minute well summaries.
+- The positive benchmark does not validate intact-organoid biological age, lifespan,
+  one-hour prediction, or transfer to FinalSpark.
+- Rows, clock hours and repeated wells are not independent organoids.
+- Missing exported values do not establish physiological silence.
+- FinalSpark counts are not normalized by verified continuous exposure.
+- DANDI rates use nominal source duration. Zenodo rates use declared file duration.
+- DANDI rat cultures and Zenodo human organoid summaries remain descriptive tracks.
+- Figure 05 describes the FinalSpark extractor. The KCL authors' feature definitions
+  come from Axion / MEA-NAP and are not assumed identical.
+- Figure 01 is a conceptual drawing. Figures 03-05, 12 and 19 explain methods or
+  interpretation. Figure 06 uses actual public spike times; it is not a synthetic raster.
+- No confidence interval or population-level biological validation is implied.
+
+NUMERIC PROVENANCE
+Figure 10 uses the user's successful final Windows-run primary scores. Four forest
+entries reflect the local printed values. The other primary entries agree with the
+reference calculation to the displayed precision. Supplementary ablations and feature
+range audits come from the reproducible reference computation.
+The age extension matched the user's successful local output at the shown precision.
+All source data is unchanged by this plotting workflow; the CSVs in data are snapshots
+or selected columns prepared for these figures. The script fits no new models.
+
+SCIENTIFIC SOURCES
+FinalSpark: user-uploaded derived tables and source metadata.
+DANDI: https://dandiarchive.org/dandiset/002020/0.261004.1410
+Zenodo: https://doi.org/10.5281/zenodo.22755004
+KCL dataset: https://doi.org/10.18742/30394168
+KCL paper: https://doi.org/10.1016/j.crmeth.2026.101371
+
+REGENERATION
+From this folder, with numpy, pandas, matplotlib and pillow installed:
+    python source/generate_figures.py
+
+The generator recreates PNGs, SVGs, the overview PDF and contact sheets. It does
+not open large recordings or retrain the project models.
+
+FIGURE-BY-FIGURE GUIDE
+
+
+01_research_goal
+Section: Motivation
+Caption: The project tests whether recorded electrical activity contains information about culture age. Remaining functional lifespan requires suitable longitudinal endpoint labels.
+Numeric source: Conceptual diagram / documented method; no measured numeric axis.
+
+
+02_data_tracks
+Section: Data
+Caption: Four analysis tracks remain separate because their biological materials, recording units and available target labels differ. KCL DPD means days after dissociation.
+Numeric source: FS369_hourly_features.csv, FS437_hourly_features.csv, dandi_descriptive.csv, zenodo_descriptive.csv, culture_age_inventory.csv
+
+
+03_processing_workflow
+Section: Methods
+Caption: The FinalSpark path extracts hourly event features, while the separate age extension uses author-computed five-minute well averages. Both use train-only preprocessing and explicit evaluation splits.
+Numeric source: Conceptual diagram / documented method; no measured numeric axis.
+
+
+04_target_definitions
+Section: Methods
+Caption: The FinalSpark labels are arithmetic experiment-level quantities. They sum to a constant within an experiment and do not provide independent confirmation of biological maturation or individual survival.
+Numeric source: FS369_metadata.json, FS437_metadata.json
+
+
+05_feature_families
+Section: Methods
+Caption: Feature families describe event activity without identifying individual neurons. Fixed-ISI channel bursts are not a measure of network synchrony. No feature-importance ranking is implied.
+Numeric source: Conceptual diagram / documented method; no measured numeric axis.
+
+
+06_real_event_raster
+Section: Methods
+Caption: A 60-second excerpt of actual detected events from one Zenodo organoid recording illustrates channel/time event data. One-second bin counts below are descriptive event counts, not identified-neuron firing rates.
+Numeric source: zenodo_fs363_org0_events.csv
+
+
+07_event_record_missingness
+Section: Data quality
+Caption: FS369 has 509 event-containing hours and one hour without exported events. FS437 has 115 event-containing hours and 23 without. Unknown exposure prevents interpreting those gaps as silence.
+Numeric source: FS369_hourly_features.csv, FS437_hourly_features.csv
+
+
+08_activity_and_temperature
+Section: Results: FinalSpark
+Caption: Actual hourly event counts and environmental measurements show markedly different experiment contexts. Gray bands identify missing values for each plotted quantity; they are not inactivity periods.
+Numeric source: FS369_hourly_features.csv, FS437_hourly_features.csv
+
+
+09_finalspark_dataset_shift
+Section: Results: FinalSpark
+Caption: The calendar-age ranges do not overlap between training and transfer evaluation. Temperature measurements also differ. These measured shifts are plausible contributors to poor transfer, but the plot does not establish their causal contribution.
+Numeric source: FS369_hourly_features.csv, FS437_hourly_features.csv
+
+
+10_finalspark_primary_model_results
+Section: Results: FinalSpark
+Caption: All eight primary hourly model configurations are shown. Some improve MAE relative to the training median, but all have negative transfer R². Remaining recorded experiment time is not validated individual survival.
+Numeric source: finalspark_primary_scores.csv
+
+
+11_labeled_age_dataset
+Section: Data: age extension
+Caption: The labeled extension samples five post-dissociation ages. Late observations are fewer and comprise vehicle controls, so row count and treatment composition change with age. Rows are repeated well observations.
+Numeric source: culture_age_inventory.csv
+
+
+12_grouped_validation
+Section: Methods: age extension
+Caption: Each fold excludes one connected plate/batch component. Plates 41 and 42 stay together. The matrix represents actual validation groups, not 920 independent biological replicates.
+Numeric source: culture_age_inventory.csv
+
+
+13_age_benchmark_main_result
+Section: Results: age extension
+Caption: The six-feature forest has pooled MAE 6.596 days and R² 0.302, versus median-baseline MAE 8.113 days. The improvement is modest and specific to days after dissociation in this dataset.
+Numeric source: culture_age_pooled_scores.csv
+
+
+14_age_benchmark_robustness
+Section: Results: age extension
+Caption: The forest MAE is 6.727 days under donor-line exclusion and 6.003 days on the untreated-only subset. The latter excludes all 37-DPD rows and therefore evaluates a different age range.
+Numeric source: culture_age_pooled_scores.csv
+
+
+15_age_actual_vs_predicted
+Section: Results: age extension
+Caption: Actual out-of-fold forest estimates show a modest association with culture time and marked regression toward intermediate ages. The scatter preserves true discrete x values and does not jitter or clip estimates.
+Numeric source: culture_age_primary_forest_predictions.csv
+
+
+16_age_prediction_bias
+Section: Limitations
+Caption: The mean signed error is +9.90 days at 6 DPD and -11.75 days at 37 DPD. This substantial early/late bias limits practical use despite positive pooled R².
+Numeric source: culture_age_age_specific_errors.csv
+
+
+17_dandi_descriptive_activity
+Section: External descriptive data
+Caption: Rat-culture event activity varies across recording sessions. Nominal rates use source duration metadata, and days since the first processed session do not supply biological culture age or lifespan labels.
+Numeric source: dandi_descriptive.csv
+
+
+18_zenodo_descriptive_activity
+Section: External descriptive data
+Caption: Empirical distributions summarize activity and channel bursts for 45 human organoid recordings. File-declared duration supports descriptive rate calculations but does not verify uninterrupted exposure or provide individual age/death labels.
+Numeric source: zenodo_descriptive.csv
+
+
+19_supported_conclusions
+Section: Conclusion
+Caption: A reproducible pipeline and modest within-study culture-time prediction are supported. Poor FinalSpark transfer, age-specific bias and missing individual functional endpoints limit broader claims.
+Numeric source: Conceptual diagram / documented method; no measured numeric axis.
+
+
+20_supplement_finalspark_ablations
+Section: Appendix
+Caption: Removing some families changes transfer MAE, sometimes reducing it. All compared transfer configurations still fail to establish reliable prediction, and the ablations do not measure causal biological importance.
+Numeric source: neural_feature_ablations.csv
+
+
+21_supplement_age_fold_variability
+Section: Appendix
+Caption: Primary forest MAE ranges from about 5.51 to 7.55 DPD across held-out groups. The plot shows every fold and the corresponding median baseline, without treating repeated recordings as independent biological replicates.
+Numeric source: culture_age_fold_scores.csv
+
+
+22_supplement_feature_range_shift
+Section: Appendix
+Caption: Observed FS437 values frequently exceed the training range for channel, amplitude and environmental features. Temperature is outside the source range for all nonmissing test observations.
+Numeric source: feature_range_shift.csv

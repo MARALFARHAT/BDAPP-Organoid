@@ -1,0 +1,17 @@
+{
+  "culture_age_age_specific_errors.csv": "ec4a07f9b818a966fdd47b741c9ed7510f75e8ccaf90bb68dc985aeca0e0b6de",
+  "feature_range_shift.csv": "14b78133f3298b62f6e4105bc744c82f1ed78def4115f32aadca68975ad84e49",
+  "culture_age_inventory.csv": "100babaa77c15584c56bf3189ac4c0f85dfd904c28c5253a788179089a7c6a47",
+  "zenodo_fs363_org0_events.csv": "180b4f8aaaaf0c9e8778afabfed693bb652a5a331295ddc7b6cb58f5a92aeee1",
+  "FS369_metadata.json": "f8cf8073c72d93c02fcd6dc3b393d3bace3b6669cf5a3f11505a2993b0567c57",
+  "culture_age_primary_forest_predictions.csv": "b05d4a58da0c75eb6c3988ae116b0d4485a4b7bd8c27915f3683fe7db5d7f61b",
+  "zenodo_descriptive.csv": "927ba9387269ecd377605a1228aef92140cc34236fd9656be61d01b815fb5deb",
+  "culture_age_fold_scores.csv": "dbf206d728000f81b7ea9d2a055aa922ee6e29f6c94b884c8c660ecfd6f29cbf",
+  "FS437_hourly_features.csv": "afb9bdb8a81957ce54379329cc89c9d94d2ce7aae082d42ef897e89a0be28314",
+  "finalspark_primary_scores.csv": "49dc39e5318f42e60a5cbd12d075a6ab9c054013b76ceedf5c3a651551f01084",
+  "culture_age_pooled_scores.csv": "c213f19134953bbe1b452dd089a83aec52f409de50b4cb4c4ff149e4a083e3b2",
+  "FS369_hourly_features.csv": "09473b07e0e766663b2a642d7b96fa555c27de84965ad3e0712131a821bfdf8e",
+  "neural_feature_ablations.csv": "3d44f02481a8219982cc494a1d238e48e72238121e5e3755899d9eaa66e48567",
+  "dandi_descriptive.csv": "67c2ad31220e450e65fb82231c5e2b6603985dfeb948a3b0ee733feecae2d9a8",
+  "FS437_metadata.json": "c84d92bc264604d0ea2df161282de1d23e0354b450dd24fb915b82488230c4c5"
+}

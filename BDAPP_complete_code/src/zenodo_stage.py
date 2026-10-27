@@ -1,4 +1,5 @@
 # Maral Farhatnejad | Student ID: 23012856 | BDAPP
+"""Read Zenodo 22755004 individual organoid MAT files, extracted or zipped."""
 from pathlib import Path
 from datetime import datetime, timezone
 import argparse, hashlib, io, json, re, zipfile
@@ -66,6 +67,8 @@ def read_mat(content, source):
         events = np.concatenate(chunks) if chunks else np.empty(0, dtype=RECORD)
         oid = matlab_text(f["organoid_id"])
         stats = features(events) if len(events) else {"detected_events": 0, "active_observed_channels": 0}
+        # The shared extractor's voltage suffix is deliberately removed here:
+        # the public MAT amplitude units were not independently established.
         for key in list(stats):
             if key.endswith("_uv"):
                 stats[key[:-3] + "_source_units"] = stats.pop(key)

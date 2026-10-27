@@ -1,4 +1,9 @@
 # Maral Farhatnejad | Student ID: 23012856 | BDAPP
+"""Predict days after organoid dissociation from published five-minute well features.
+
+This is a separate culture-age benchmark, not intact-organoid age or lifespan
+prediction and not a one-hour-recording model. See analysis_plan.json.
+"""
 from pathlib import Path
 from datetime import datetime, timezone
 import argparse
@@ -166,6 +171,7 @@ def run(output):
     pd.concat(memberships, ignore_index=True).to_csv(output / 'fold_membership.csv', index=False)
     data.to_csv(output / 'audited_inputs.csv', index=False)
     data.groupby(['cell_line', 'batch', 'plate_number', 'validation_group', 'age_DPD']).size().rename('recordings').to_csv(output / 'source_inventory.csv')
+    # Independently reconcile the saved per-fold scores from saved prediction rows.
     for row in score.itertuples(index=False):
         sub = pred[pred.protocol.eq(row.protocol) & pred.fold.eq(row.fold) & pred.model.eq(row.model)]
         actual = metrics(sub.age_DPD.to_numpy(), sub.predicted_age_DPD.to_numpy())
