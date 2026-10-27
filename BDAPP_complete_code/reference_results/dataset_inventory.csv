@@ -1,0 +1,5 @@
+dataset,track,recordings_or_grid_windows,event_containing_windows,eligible_model_windows,detected_events,units
+FS369,exploratory experiment-level models,510,509.0,509.0,94154693,aggregate experiment
+FS437,exploratory experiment-level models,138,115.0,115.0,2643769,aggregate experiment
+DANDI 002020,descriptive rat cortical cultures,129,,,130035509,7 cultures
+Zenodo 22755004,descriptive human forebrain organoids,45,,,856988,16 experiment prefixes

@@ -1,0 +1,58 @@
+BDAPP BASELINE CODE STAGE - Maral Farhatnejad, 23012856
+
+This package contains an executed exploratory analysis of the supplied real
+six-hour aggregate tables. It is not the final one-hour spontaneous-activity
+model proposed originally, and not a validated individual survival system.
+
+WHAT TO OPEN
+results/model_comparison.csv: all 28 scores from two targets, seven model/
+feature specifications, and two evaluation protocols.
+results/predictions.csv: actual held-out predictions (518 rows).
+results/RESULTS_AND_LIMITATIONS.txt: interpretation and limitations.
+results/analysis_status.json: exact stage, exclusions, software, source hash.
+results/labeled_windows_and_exclusions.csv: all 113 source windows with reasons.
+
+REPRODUCE ON YOUR PC
+Extract this ZIP into F:\BDAPP-Organoid, keeping BDAPP_baseline_stage together.
+Open VS Code PowerShell and run:
+
+conda activate fs437-local
+cd F:\BDAPP-Organoid\BDAPP_baseline_stage
+python model_stage.py --input BDAPP_model_inputs.zip
+
+If scikit-learn is missing, use your activated environment:
+python -m pip install -r requirements.txt
+Then repeat the Python command. The existing executed results remain in results;
+a reproduction writes a new model_results_<timestamp> directory.
+
+TARGETS
+batch_calendar_age_days: assessment time minus documented Batch Start.
+days_until_recorded_experiment_endpoint: documented Dead Date minus assessment.
+Assessment is six hours after the window start. A window crossing the endpoint
+is excluded, as are missing event-count windows. This does not verify coverage.
+The metadata defines Lifespan from the first recording, not from Batch Start.
+Both experiments report twelve neurospheres and NS Batch 3. They do not provide
+independent organoid-level endpoint labels or electrode mappings.
+
+RESULTS
+Train on 85 FS369 windows and test on 20 FS437 windows. The two experiments'
+age ranges do not overlap. Event-count Ridge MAE is 85.17 days for batch age,
+versus 98.25 for the source training median. The lowest endpoint MAE among the
+tested models is 1.76 days for the combined random forest, versus 7.56 for the
+training median, but its R-squared is -0.85. No tested transfer model achieves
+positive R-squared. These are unsuccessful/limited transfer baselines, not
+validation of accurate age or lifespan prediction. Do not select a winner here
+and describe FS437 as an untouched confirmation dataset in later work.
+
+The recording-clock diagnostic is deliberately separate. Near-zero error within
+one experiment reflects time arithmetic, not a neural biological discovery.
+Age and endpoint labels within each experiment are affine complements. Their
+internal results are not independent confirmations.
+
+REMAINING CODE WORK
+Verified one-hour activity/timing features, stimulation-artifact treatment,
+recording exposure, culture mapping, and DANDI/Zenodo descriptive analysis
+remain separate work. No external dataset was evaluated by this script.
+
+Data sources: your supplied BDAPP_model_inputs.zip, metadata and README files.
+Software methods: https://scikit-learn.org/stable/common_pitfalls.html

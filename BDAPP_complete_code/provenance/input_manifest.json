@@ -1,0 +1,26 @@
+[
+  {
+    "path": "data/BDAPP_model_inputs.zip",
+    "sha256": "c81854028238c3197500ee3896abbd6b425395880f6dc185551acda7f5033810",
+    "bytes": 25952,
+    "origin": "User-uploaded derived data; raw recordings are not included."
+  },
+  {
+    "path": "data/DANDI_summary.zip",
+    "sha256": "8194cef8a915984565c107af9abbb4f032a982fa4761eab8f577d64940f280a1",
+    "bytes": 318487,
+    "origin": "User-uploaded derived data; raw recordings are not included."
+  },
+  {
+    "path": "data/FinalSpark_hourly_summary.zip",
+    "sha256": "fd8ddebd66c67964c96fcdd576bca9e0158c1bd6bb01b104a2ad759321e50fe7",
+    "bytes": 79077,
+    "origin": "User-uploaded derived data; raw recordings are not included."
+  },
+  {
+    "path": "data/Zenodo_summary.zip",
+    "sha256": "d2ec8efeaa28b59c4dbcb93849c88fe62e257b9c1c168e9b398800cfb35235f8",
+    "bytes": 50264,
+    "origin": "User-uploaded derived data; raw recordings are not included."
+  }
+]

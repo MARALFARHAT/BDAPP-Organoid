@@ -1,0 +1,16 @@
+{
+  "BDAPP_model_inputs.zip": "c81854028238c3197500ee3896abbd6b425395880f6dc185551acda7f5033810",
+  "START_HERE.txt": "8bd9df25078fd58b04501e13cbcac965709f7670cd05723d5505ed7adf744380",
+  "model_stage.py": "36f53f9bee20cce2f1362de4b889e7a5b6697aa0bed25e23230463e7724096da",
+  "requirements.txt": "1b2bf48949ddd4fcc018f3b169e19f5fd65859139808e41d8f45bb46fe516f37",
+  "results/RESULTS_AND_LIMITATIONS.txt": "dfe05a0dd2ad0c16fdfe33b50a8d3cad05305e2ef9793e70a49bb8385d2234d5",
+  "results/age_and_environment_shift.png": "e88f156ab398564eafaea2d241fb99be10a8a9f97b55be0bdb6bb12372e39a9a",
+  "results/analysis_status.json": "8d3d3557b31f3c38894ac789be70d09a912e0b1368ddb4c4107cb342ec49e7e7",
+  "results/experiment_summary.csv": "a263b671abdd39b0a518bd0fc2ef11ae9af02bb1930feb623789aee34c1e27d5",
+  "results/labeled_windows_and_exclusions.csv": "699b671bb7908d9b6cc087b2a05f1a406ac4d94f6dd1ed6f926893c4568e3491",
+  "results/model_comparison.csv": "4007d72c5eef3288c80e50a26319f974b2e7dfa60b33144ad14cb64416d6a67a",
+  "results/predictions.csv": "7bd52733c94dfe392648e856a17b39ca1382ade5cb203f69f10de7475a590f80",
+  "results/transfer_MAE_batch_calendar_age_days.png": "3273316e70044d1f57e4feb6fbc7e14dbc81ce1f0881e3676d854da1781edd53",
+  "results/transfer_MAE_days_until_recorded_experiment_endpoint.png": "e22609936c9ea03541a7db272f494fe3d64f8450ba7a3da2a6ac9afccb1d8441",
+  "results/transfer_predictions.png": "31c77b21056977ee209c72c054d53af2d802a99c0d7476f774bef2e579758a4b"
+}

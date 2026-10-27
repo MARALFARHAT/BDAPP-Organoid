@@ -1,0 +1,37 @@
+{
+  "target": "age_DPD: days after organoid dissociation, not intact-organoid biological age or lifespan",
+  "source_doi": "10.18742/30394168",
+  "recordings": 920,
+  "wells": 216,
+  "cell_lines": 6,
+  "differentiation_batches": 15,
+  "plates": 9,
+  "independent_validation_components": 8,
+  "sampled_ages_DPD": [
+    6,
+    15,
+    22,
+    29,
+    37
+  ],
+  "split_and_metric_checks": "PASS",
+  "score_rows": 88,
+  "held_out_prediction_rows": 10720,
+  "plan_sha256": "a2140853c3f1eed85725e9e1b22166a01947820040f9cb8c45edb7f8d9063f0e",
+  "source_sha256": "681dfe7e8c1606961ee5ec53f65a99a6bfb2c30892629f35d5330172405ad863",
+  "software": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "sklearn": "1.8.0"
+  },
+  "intact_organoid_age_prediction_validated": false,
+  "lifespan_prediction_performed": false,
+  "limits": [
+    "Published five-minute well averages, not a one-hour recording model.",
+    "Organoid-derived dissociated 2D cultures, not intact organoids.",
+    "Five sampled ages and only six donor lines; repeated wells are dependent.",
+    "Late timepoints contain fewer vehicle-control wells; missingness/selection may affect prediction.",
+    "External transfer to FinalSpark is not tested; remaining lifespan is not predicted."
+  ]
+}

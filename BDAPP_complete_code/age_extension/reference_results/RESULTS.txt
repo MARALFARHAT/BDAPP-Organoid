@@ -1,0 +1,22 @@
+Separate culture-age benchmark: days after organoid dissociation
+Published five-minute well averages; not intact-organoid age, lifespan or a one-hour recording model.
+
+                                protocol             model  recordings  folds  MAE_days  RMSE_days        R2  MAE_change_vs_training_median_days  macro_fold_MAE_days
+           plate_and_batch_group_holdout   training_median         920      8  8.113043  10.012601 -0.077604                            0.000000             8.138462
+           plate_and_batch_group_holdout firing_rate_ridge         920      8  7.966346   9.391543  0.051932                           -0.146697             7.980706
+           plate_and_batch_group_holdout    activity_ridge         920      8  7.102000   8.491716  0.224902                           -1.011044             7.131601
+           plate_and_batch_group_holdout   activity_forest         920      8  6.596074   8.060494  0.301625                           -1.516970             6.646848
+unseen_cell_line_excluding_linked_plates   training_median         920      6  8.113043  10.012601 -0.077604                            0.000000             8.150379
+unseen_cell_line_excluding_linked_plates firing_rate_ridge         920      6  7.960602   9.389671  0.052310                           -0.152442             8.039574
+unseen_cell_line_excluding_linked_plates    activity_ridge         920      6  7.288408   8.688099  0.188637                           -0.824636             7.353837
+unseen_cell_line_excluding_linked_plates   activity_forest         920      6  6.727254   8.174603  0.281712                           -1.385789             6.936153
+            untreated_only_group_holdout   training_median         840      8  7.414286   8.870094 -0.107907                            0.000000             7.446429
+            untreated_only_group_holdout firing_rate_ridge         840      8  6.990234   8.176179  0.058658                           -0.424051             6.981112
+            untreated_only_group_holdout    activity_ridge         840      8  6.395209   7.658426  0.174103                           -1.019076             6.384421
+            untreated_only_group_holdout   activity_forest         840      8  6.002623   7.276859  0.254351                           -1.411663             6.007662
+
+Published five-minute well averages, not a one-hour recording model.
+Organoid-derived dissociated 2D cultures, not intact organoids.
+Five sampled ages and only six donor lines; repeated wells are dependent.
+Late timepoints contain fewer vehicle-control wells; missingness/selection may affect prediction.
+External transfer to FinalSpark is not tested; remaining lifespan is not predicted.

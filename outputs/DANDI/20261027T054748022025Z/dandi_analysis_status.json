@@ -1,0 +1,27 @@
+{
+  "discovered_files": 129,
+  "selected_files": 129,
+  "processed_files": 129,
+  "skipped_files": 0,
+  "cultures": 7,
+  "culture_age_prediction": "not performed: culture age unavailable",
+  "FinalSpark_model_validation": "not performed",
+  "methods_and_limitations": [
+    "Each record is a recording session, not an independent culture.",
+    "Rat dissociated cortical cultures are kept separate from human FinalSpark neurospheres.",
+    "The source age P18D, reference gestational, describes the donor at dissection; culture age is unavailable.",
+    "recording_elapsed_days is measured from the earliest successfully processed session per culture; it is not days in vitro.",
+    "Events are unsorted hardware-channel detections, not identified neurons; multiple detections can represent one neuron.",
+    "Relative event times are anchored to the first spike, not the recording start. No absolute spike times are reconstructed.",
+    "Count/duration uses converter-reported nominal recording duration, not independently verified continuous exposure.",
+    "ISIs and bursts are channel-level event summaries. Burst definition: at least five events joined by ISIs <=100 ms.",
+    "Amplitude stays in source-native units. Missing channel mappings remain unresolved.",
+    "Duplicate events are retained. No artifact removal, age prediction, survival prediction or causal inference is performed."
+  ],
+  "software": {
+    "python": "3.11.16",
+    "h5py": "3.16.0",
+    "numpy": "2.4.6",
+    "pandas": "2.3.3"
+  }
+}

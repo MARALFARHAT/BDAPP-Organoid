@@ -1,0 +1,45 @@
+{
+  "created_utc": "2026-10-27T08:06:16.239386+00:00",
+  "result_origin": "Recomputed in this runtime from user-uploaded derived inputs; no raw FinalSpark recordings opened.",
+  "software": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "sklearn": "1.8.0"
+  },
+  "source_sha256": {
+    "run_project.py": "8aff123849e9a92800331f2575b2a09ae3370a8b32ad65dbc8c49047b84c9c0f",
+    "src/dandi_stage.py": "03c14b67dd0abd03caf644b3360701521d7420776f0fdeff6f44ae01bc5fa2e3",
+    "src/hourly_models.py": "4ce1628fdcf879e67a04404d138b28bae9daac171ad56d4f247768d161194111",
+    "src/hourly_stage.py": "be2f4c54ee54401e051cd20794a951db59a80e2aa2303a21828fdf1bf6766970",
+    "src/model_stage.py": "36f53f9bee20cce2f1362de4b889e7a5b6697aa0bed25e23230463e7724096da",
+    "src/project_checks.py": "caada2d642875cb57c086222c027ed5e30bf0e82c94d79ca28b1224364e3cb58",
+    "src/zenodo_stage.py": "af077050b5fad3e74a8a138e86059964557bdcd4126b72b3efc3e9d54fea010c"
+  },
+  "inputs": [
+    {
+      "path": "data/BDAPP_model_inputs.zip",
+      "sha256": "c81854028238c3197500ee3896abbd6b425395880f6dc185551acda7f5033810",
+      "bytes": 25952,
+      "origin": "User-uploaded derived data; raw recordings are not included."
+    },
+    {
+      "path": "data/DANDI_summary.zip",
+      "sha256": "8194cef8a915984565c107af9abbb4f032a982fa4761eab8f577d64940f280a1",
+      "bytes": 318487,
+      "origin": "User-uploaded derived data; raw recordings are not included."
+    },
+    {
+      "path": "data/FinalSpark_hourly_summary.zip",
+      "sha256": "fd8ddebd66c67964c96fcdd576bca9e0158c1bd6bb01b104a2ad759321e50fe7",
+      "bytes": 79077,
+      "origin": "User-uploaded derived data; raw recordings are not included."
+    },
+    {
+      "path": "data/Zenodo_summary.zip",
+      "sha256": "d2ec8efeaa28b59c4dbcb93849c88fe62e257b9c1c168e9b398800cfb35235f8",
+      "bytes": 50264,
+      "origin": "User-uploaded derived data; raw recordings are not included."
+    }
+  ]
+}

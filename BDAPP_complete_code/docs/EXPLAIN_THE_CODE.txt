@@ -1,0 +1,33 @@
+Brief explanation
+
+My Python project processes neural event recordings from FinalSpark and two
+additional public datasets. It reads the large files in chunks, checks metadata
+and missing records, and extracts activity features such as event counts,
+channel activity, amplitudes, timing patterns, and channel bursts. I compare
+median, Ridge, and random-forest models by training on FS369 and testing on
+FS437, with separate temporal and sensitivity checks. The models are now trained
+and evaluated, but the results do not establish reliable prediction of biological
+age or individual remaining lifespan. DANDI and Zenodo provide separate
+descriptive analyses because suitable age and death labels are unavailable.
+
+If asked what is implemented
+
+The extraction, feature engineering, exploratory model comparisons, plots, and
+result checks are implemented. One command reproduces the modeling from the
+included derived tables. The large source files remain on my PC, and the code
+does not load raw waveform recordings.
+
+If asked what the labels actually mean
+
+The age label is calendar time since the reported batch creation date. The
+remaining-time label is time until the recorded experiment endpoint, whose
+source cause is low or absent activity. Neither is an independently verified
+individual biological lifespan measurement.
+
+If asked why the results matter
+
+The project demonstrates a reproducible data-processing and evaluation pipeline
+and identifies substantial limitations in labels and transfer between experiments.
+All primary one-hour transfer R-squared values are negative. These negative
+results help define what evidence is needed before making a reliable lifespan
+prediction claim.

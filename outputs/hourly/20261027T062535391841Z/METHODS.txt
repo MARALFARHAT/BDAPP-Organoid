@@ -1,0 +1,9 @@
+One-hour UTC clock windows; all timing features use only events inside that window.
+Timing is sorted within channel and window; chunk input order is not assumed.
+Channel bursts: at least five events linked by intervals <=100 ms. Window edges censor bursts.
+Coverage remains unknown. Rates, physiological silence and true spontaneous activity are not established.
+No events were deduplicated or removed as stimulation artifacts. No culture mapping was guessed.
+Export stimulation counts indicate log records only; no logged record does not verify no stimulation.
+Amplitude uses the documented max_voltage_uv field. Environmental units remain source-reported.
+Age/endpoint labels are the same exploratory experiment-level targets as the six-hour baseline.
+Models have not yet run on these richer features. DANDI is a separate rat-culture track.

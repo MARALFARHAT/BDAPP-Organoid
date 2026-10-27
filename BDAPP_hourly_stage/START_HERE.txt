@@ -1,0 +1,52 @@
+BDAPP ONE-HOUR FINALSpark FEATURE STAGE
+Maral Farhatnejad, student ID 23012856
+
+Extract BDAPP_hourly_stage into F:\BDAPP-Organoid.
+conda activate fs437-local
+cd F:\BDAPP-Organoid\BDAPP_hourly_stage
+python hourly_stage.py
+
+The script reads both existing package HDF5 files. It never opens raw waveform
+files. It partitions event summaries into temporary hourly binary files so it
+can sort each hour by channel and timestamp without requiring chronological
+input. Those generated partitions are deleted after each experiment succeeds.
+The script checks free disk space. A failed run leaves its own partitions and
+a RUN_FAILED.txt marker in its newly generated output directory.
+
+Output: F:\BDAPP-Organoid\outputs\hourly\<timestamp>.
+Upload FinalSpark_hourly_summary.zip from that directory. It contains derived
+features, metadata, methods and row-count audits, not the event partitions.
+
+FEATURES
+Event count, active observed channels, channel count entropy, largest-channel
+share, absolute amplitude median/IQR from max_voltage_uv, channel inter-event
+median/CV/CV2, fraction of intervals under 10 ms, equal-time same-channel
+candidates, fixed-ISI burst counts and fraction of events in bursts.
+A channel burst requires five events linked by intervals <=100 ms.
+Intervals and bursts do not cross window edges. Those boundaries censor bursts.
+All events remain included: no deduplication or stimulation-artifact removal.
+
+Environment summaries and counts from the complete exported stimulation table
+join the event-hour table. Zero export_stimulation_records means no log record
+in that export hour, not confirmed absence of stimulation or recording.
+Biological coverage and culture mappings remain unverified. Exposure-normalized
+rates stay missing. Activity features can reflect acquisition gaps.
+Memory guard: hours over five million events retain their count but skip richer
+features and are excluded from the exploratory modeling eligibility flag.
+The script conservatively excludes windows ending after the recorded endpoint.
+Its age/endpoint labels remain experiment-level exploratory labels.
+
+VERIFICATION
+Tested using HDF5 fixtures with unsorted events split across chunks. Checked
+exact hourly totals, gaps, ISIs, burst features, environment means, endpoint
+exclusion, unchanged source bytes, and generated-partition cleanup.
+The real FinalSpark execution is still required on your PC.
+
+PROJECT STATUS
+DANDI: all 129 files processed, seven cultures, 130035509 detections, zero skips.
+DANDI culture-age labels are missing in all recordings. That track currently
+supports descriptive activity comparisons rather than biological-age validation.
+The existing six-hour FinalSpark transfer baselines have poor age performance.
+This stage supplies richer original-proposal one-hour features for the next
+model comparison; it does not promise improved prediction performance.
+Zenodo processing and model evaluation on these new features remain pending.

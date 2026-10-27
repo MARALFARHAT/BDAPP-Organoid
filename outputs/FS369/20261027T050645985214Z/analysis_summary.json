@@ -1,0 +1,35 @@
+{
+  "detected_events": {
+    "source_rows": 94154693,
+    "invalid_time_rows": 0
+  },
+  "stimulation_records": {
+    "source_rows": 130113,
+    "invalid_time_rows": 0
+  },
+  "temperature": {
+    "source_rows": 12820,
+    "invalid_time_or_value_rows": 0,
+    "distinct_incubators": 1
+  },
+  "CO2": {
+    "source_rows": 14728,
+    "invalid_time_or_value_rows": 0,
+    "distinct_incubators": 1
+  },
+  "O2": {
+    "source_rows": 14402,
+    "invalid_time_or_value_rows": 0,
+    "distinct_incubators": 1
+  },
+  "metadata_rows_read": 1,
+  "models_trained": false,
+  "notes": [
+    "Counts are not exposure-normalized firing rates.",
+    "Missing windows are not confirmed silence.",
+    "Incubator means retain source units and are sample-weighted.",
+    "Observed electrodes are not independent organoids.",
+    "No deduplication or stimulation-artifact exclusion applied.",
+    "No biological age or death labels inferred."
+  ]
+}

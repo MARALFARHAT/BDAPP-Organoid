@@ -1,0 +1,8 @@
+# Exact packages observed in the supplied reference-result runtime (Python 3.12.14).
+# These document that runtime; they are not required upgrades for the user's PC.
+numpy==2.3.5
+pandas==2.2.3
+matplotlib==3.10.8
+scikit-learn==1.8.0
+h5py==3.16.0
+tables==3.11.1

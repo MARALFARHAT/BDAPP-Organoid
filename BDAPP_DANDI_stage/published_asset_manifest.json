@@ -1,0 +1,1168 @@
+{
+  "count": 129,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "asset_id": "dc4c416f-4459-4a2a-aba1-e2cd070845a0",
+      "blob": "21767d51-c480-47d7-8cc8-76b36b323288",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240228_ecephys.nwb",
+      "size": 741056,
+      "created": "2026-10-02T13:54:00.552947Z",
+      "modified": "2026-10-04T14:10:36.558369Z"
+    },
+    {
+      "asset_id": "fe3bd1e4-ed08-46f0-8142-837bd5146fbd",
+      "blob": "d43421c4-8f08-4733-a763-98d6334ca14c",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240303_ecephys.nwb",
+      "size": 13323826,
+      "created": "2026-10-02T13:54:01.152210Z",
+      "modified": "2026-10-04T14:10:36.579273Z"
+    },
+    {
+      "asset_id": "4694d46a-efb4-42db-a91f-7927c7c32f4e",
+      "blob": "0fd844ef-329b-475c-96ee-9e3bb8bc2856",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240301_ecephys.nwb",
+      "size": 8933615,
+      "created": "2026-10-02T13:54:01.507569Z",
+      "modified": "2026-10-04T14:10:36.591281Z"
+    },
+    {
+      "asset_id": "faed693c-f5f8-4fd8-a8ca-7bbc62a25d3e",
+      "blob": "2a6da3c2-c9eb-4027-a279-93f8fff863c7",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240302_ecephys.nwb",
+      "size": 20311267,
+      "created": "2026-10-02T13:54:02.418167Z",
+      "modified": "2026-10-04T14:10:36.605331Z"
+    },
+    {
+      "asset_id": "57056ccf-241c-482a-827e-358214987a2e",
+      "blob": "33aaa5f1-5164-4e15-a25d-62aeefac3b6b",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240304_ecephys.nwb",
+      "size": 20774649,
+      "created": "2026-10-02T13:54:02.517284Z",
+      "modified": "2026-10-04T14:10:36.615920Z"
+    },
+    {
+      "asset_id": "44870ed7-888b-4ab8-93be-2f3a9d29a129",
+      "blob": "d2760dfb-1382-4b66-a1c7-1f1ce6e829b0",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240306_ecephys.nwb",
+      "size": 12331797,
+      "created": "2026-10-02T13:54:05.216890Z",
+      "modified": "2026-10-04T14:10:36.628835Z"
+    },
+    {
+      "asset_id": "6fcd1422-ecec-4431-b1aa-2586f6a901a7",
+      "blob": "8153b3a1-b94c-41b1-9ffe-56b47a9444e5",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240305_ecephys.nwb",
+      "size": 18318779,
+      "created": "2026-10-02T13:54:05.973898Z",
+      "modified": "2026-10-04T14:10:36.647566Z"
+    },
+    {
+      "asset_id": "e60cca2b-7c51-42ef-8881-2d9522a56e71",
+      "blob": "6b5cf9d7-6b84-4258-bac4-74d22889bbb2",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240307_ecephys.nwb",
+      "size": 6158741,
+      "created": "2026-10-02T13:54:06.002659Z",
+      "modified": "2026-10-04T14:10:36.674191Z"
+    },
+    {
+      "asset_id": "eefc0e13-c4a3-434e-b3da-d4ace96944c1",
+      "blob": "0b145ea2-9ef2-491e-8a4d-5d6c9174f5dd",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240308_ecephys.nwb",
+      "size": 6953753,
+      "created": "2026-10-02T13:54:06.295844Z",
+      "modified": "2026-10-04T14:10:36.688517Z"
+    },
+    {
+      "asset_id": "1c2d3400-f82d-450d-852a-1c7f80d475ff",
+      "blob": "e2c36ee0-11e5-4dbe-90fc-470e013cf677",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240309_ecephys.nwb",
+      "size": 9366208,
+      "created": "2026-10-02T13:54:07.826891Z",
+      "modified": "2026-10-04T14:10:36.709488Z"
+    },
+    {
+      "asset_id": "ce7527f2-e582-4991-bb32-4d0817361f3e",
+      "blob": "c0a3ce7a-4c42-4deb-8391-469f36af8230",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240310_ecephys.nwb",
+      "size": 4141191,
+      "created": "2026-10-02T13:54:09.002190Z",
+      "modified": "2026-10-04T14:10:36.727427Z"
+    },
+    {
+      "asset_id": "b3f30a63-b30e-4cda-acf6-59dbe4bb9f88",
+      "blob": "df46d2dc-42b4-47d7-aaa5-d51721e2d029",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240313_ecephys.nwb",
+      "size": 4106145,
+      "created": "2026-10-02T13:54:10.165771Z",
+      "modified": "2026-10-04T14:10:36.752716Z"
+    },
+    {
+      "asset_id": "42cca1dd-6b72-4493-9049-c2f8d922bf94",
+      "blob": "d0efcc67-ec64-4140-9edd-a141f293418e",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240311_ecephys.nwb",
+      "size": 3038342,
+      "created": "2026-10-02T13:54:10.177130Z",
+      "modified": "2026-10-04T14:10:36.769503Z"
+    },
+    {
+      "asset_id": "a03d05a8-69b0-4e98-a11c-494eb20f1675",
+      "blob": "6411e3c4-4347-4720-8736-2a0b816a5544",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240314_ecephys.nwb",
+      "size": 2819492,
+      "created": "2026-10-02T13:54:10.973545Z",
+      "modified": "2026-10-04T14:10:36.782519Z"
+    },
+    {
+      "asset_id": "8f027af6-8965-44bb-89cc-e8c82d54cf33",
+      "blob": "a1861c48-3f9b-4347-a52b-404c074a06b0",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240315_ecephys.nwb",
+      "size": 2708858,
+      "created": "2026-10-02T13:54:11.991855Z",
+      "modified": "2026-10-04T14:10:36.794492Z"
+    },
+    {
+      "asset_id": "4ddcc028-cf79-4ce9-9ba7-717ed199d619",
+      "blob": "6b860524-1054-4e45-88b2-d7e0748d828a",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240316_ecephys.nwb",
+      "size": 1960176,
+      "created": "2026-10-02T13:54:12.685269Z",
+      "modified": "2026-10-04T14:10:36.805224Z"
+    },
+    {
+      "asset_id": "58321096-1486-478a-9248-4c0760b2db9d",
+      "blob": "0f98167d-a4d8-46a4-8bd4-5d79a06e975d",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240317_ecephys.nwb",
+      "size": 2843821,
+      "created": "2026-10-02T13:54:14.556318Z",
+      "modified": "2026-10-04T14:10:36.813324Z"
+    },
+    {
+      "asset_id": "31cc3ff5-731a-4922-a672-c145e4d87b22",
+      "blob": "e596cb70-251f-49e0-8970-cce7dcbb6579",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240319_ecephys.nwb",
+      "size": 2686625,
+      "created": "2026-10-02T13:54:14.925358Z",
+      "modified": "2026-10-04T14:10:36.827500Z"
+    },
+    {
+      "asset_id": "f6f4cdef-290d-44b4-bba6-91e45e97b26b",
+      "blob": "7d463c15-25a2-46aa-83f1-a8cded082846",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240318_ecephys.nwb",
+      "size": 17406124,
+      "created": "2026-10-02T13:54:15.819838Z",
+      "modified": "2026-10-04T14:10:36.841677Z"
+    },
+    {
+      "asset_id": "ee2a7007-8efe-4a4e-96f1-bb2d908c398b",
+      "blob": "72de4140-87d8-4da4-9c59-3f4e0faf4961",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240320_ecephys.nwb",
+      "size": 4532123,
+      "created": "2026-10-02T13:54:16.153068Z",
+      "modified": "2026-10-04T14:10:36.852446Z"
+    },
+    {
+      "asset_id": "dfb9bf75-d8a8-44c0-bffe-dca5b43b4769",
+      "blob": "bd2f5e40-4b85-4139-809b-30b2c18c1bc0",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240321_ecephys.nwb",
+      "size": 23816843,
+      "created": "2026-10-02T13:54:17.686203Z",
+      "modified": "2026-10-04T14:10:36.863311Z"
+    },
+    {
+      "asset_id": "a26036fc-8e58-4391-9cd5-bdc2db4c36ee",
+      "blob": "64a7a0dc-1dd3-4a28-9f4c-d6b5d9076c56",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240322_ecephys.nwb",
+      "size": 2460532,
+      "created": "2026-10-02T13:54:18.259596Z",
+      "modified": "2026-10-04T14:10:36.873608Z"
+    },
+    {
+      "asset_id": "cd882ea3-2e8d-49af-83f3-55797e62f013",
+      "blob": "1788cbc1-51e2-4426-9d3c-ac68a8acca8b",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240325_ecephys.nwb",
+      "size": 14614622,
+      "created": "2026-10-02T13:54:20.176578Z",
+      "modified": "2026-10-04T14:10:36.884621Z"
+    },
+    {
+      "asset_id": "fb5ce92b-6848-483d-9a6c-0c7f68c92450",
+      "blob": "4131ae55-9add-4bbb-ace8-f090fb32fc0b",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240324_ecephys.nwb",
+      "size": 21538025,
+      "created": "2026-10-02T13:54:20.249308Z",
+      "modified": "2026-10-04T14:10:36.894454Z"
+    },
+    {
+      "asset_id": "bebb495d-ece3-4850-9d87-aca2c333fa8e",
+      "blob": "8c9acf70-c9f8-4327-8da3-adc741a9cc1c",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240326_ecephys.nwb",
+      "size": 2438418,
+      "created": "2026-10-02T13:54:20.899552Z",
+      "modified": "2026-10-04T14:10:36.907323Z"
+    },
+    {
+      "asset_id": "c608be11-599c-43e8-82dd-bae7b07579b7",
+      "blob": "a1bd4a1a-e0c8-419a-91ff-5770cb853af8",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240328_ecephys.nwb",
+      "size": 7179433,
+      "created": "2026-10-02T13:54:22.119050Z",
+      "modified": "2026-10-04T14:10:36.917454Z"
+    },
+    {
+      "asset_id": "6d6a7524-e4ce-406b-ae46-ebb78da4cad8",
+      "blob": "6df835eb-3b74-4eef-a995-2add722e94ca",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240327_ecephys.nwb",
+      "size": 7089177,
+      "created": "2026-10-02T13:54:22.180119Z",
+      "modified": "2026-10-04T14:10:36.931449Z"
+    },
+    {
+      "asset_id": "9ada153a-f724-49aa-8ad5-67838eab89bb",
+      "blob": "21d7f690-9811-471a-afd5-b7ade1355987",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240329_ecephys.nwb",
+      "size": 18228859,
+      "created": "2026-10-02T13:54:25.134849Z",
+      "modified": "2026-10-04T14:10:36.942217Z"
+    },
+    {
+      "asset_id": "644674ce-a489-452f-9bf2-4fed8c0a7a54",
+      "blob": "b14df1c5-d1ca-46aa-9c42-6dd6c41fe5dc",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240330_ecephys.nwb",
+      "size": 11287938,
+      "created": "2026-10-02T13:54:25.451125Z",
+      "modified": "2026-10-04T14:10:36.954216Z"
+    },
+    {
+      "asset_id": "095eb68e-af6c-4b04-9346-7f5cafcb5624",
+      "blob": "6764d259-276a-4bb0-94d0-2759951fd2f4",
+      "zarr": null,
+      "path": "sub-19880/sub-19880_ses-19880-240331_ecephys.nwb",
+      "size": 19365354,
+      "created": "2026-10-02T13:54:25.748785Z",
+      "modified": "2026-10-04T14:10:36.965835Z"
+    },
+    {
+      "asset_id": "0ea12e9a-d4e9-4ed4-934e-5c6f9d8d1f20",
+      "blob": "75288ae9-ad3d-4c83-b7cf-4d0b09aea275",
+      "zarr": null,
+      "path": "sub-23280/sub-23280_ses-23280-240516_ecephys.nwb",
+      "size": 4348761,
+      "created": "2026-10-02T13:54:26.349254Z",
+      "modified": "2026-10-04T14:10:36.976896Z"
+    },
+    {
+      "asset_id": "96c4d84e-ac47-489f-aae3-430f50d21868",
+      "blob": "279d185a-de58-444b-a88e-79fd14f2a0ee",
+      "zarr": null,
+      "path": "sub-23280/sub-23280_ses-23280-240518_ecephys.nwb",
+      "size": 14468856,
+      "created": "2026-10-02T13:54:27.461166Z",
+      "modified": "2026-10-04T14:10:36.989640Z"
+    },
+    {
+      "asset_id": "22b3ccc6-1353-4375-9615-9263c7cbbfdb",
+      "blob": "e5b4524c-73ff-4e98-adfd-f782a9f23ac5",
+      "zarr": null,
+      "path": "sub-23280/sub-23280_ses-23280-240519_ecephys.nwb",
+      "size": 5826505,
+      "created": "2026-10-02T13:54:29.370572Z",
+      "modified": "2026-10-04T14:10:37.000192Z"
+    },
+    {
+      "asset_id": "63fbbdfb-0469-4b4a-814b-719c0927071a",
+      "blob": "456b791d-6b28-4dcd-b288-e508f00d8502",
+      "zarr": null,
+      "path": "sub-23280/sub-23280_ses-23280-240521_ecephys.nwb",
+      "size": 6367120,
+      "created": "2026-10-02T13:54:29.540619Z",
+      "modified": "2026-10-04T14:10:37.009540Z"
+    },
+    {
+      "asset_id": "e5cf695e-876b-4e4b-a812-f85a045d20cc",
+      "blob": "72159bd4-5f03-41a0-81d8-93b9dd7e38e1",
+      "zarr": null,
+      "path": "sub-23280/sub-23280_ses-23280-240520_ecephys.nwb",
+      "size": 4843635,
+      "created": "2026-10-02T13:54:29.655407Z",
+      "modified": "2026-10-04T14:10:37.020694Z"
+    },
+    {
+      "asset_id": "c86643ed-4f96-43c3-97a6-ed642ce8eef8",
+      "blob": "d72985b8-df7e-4f5d-8d6e-f5d5f0f8d1a2",
+      "zarr": null,
+      "path": "sub-23280/sub-23280_ses-23280-240522_ecephys.nwb",
+      "size": 899496,
+      "created": "2026-10-02T13:54:30.229510Z",
+      "modified": "2026-10-04T14:10:37.033083Z"
+    },
+    {
+      "asset_id": "a82420cb-39be-46db-ada0-c207650972a2",
+      "blob": "42d7db40-b835-4107-9263-fbefaafde9e9",
+      "zarr": null,
+      "path": "sub-23280/sub-23280_ses-23280-240523_ecephys.nwb",
+      "size": 4885614,
+      "created": "2026-10-02T13:54:31.613985Z",
+      "modified": "2026-10-04T14:10:37.048577Z"
+    },
+    {
+      "asset_id": "b7f5d766-8713-4094-9e0e-38bfacb80c92",
+      "blob": "e8ec9fbb-6ee5-4d62-9889-9a6b5e55bd65",
+      "zarr": null,
+      "path": "sub-23280/sub-23280_ses-23280-240524_ecephys.nwb",
+      "size": 7130686,
+      "created": "2026-10-02T13:54:33.836045Z",
+      "modified": "2026-10-04T14:10:37.061195Z"
+    },
+    {
+      "asset_id": "864bf37a-05e8-4ae7-a561-99e5afbdb20a",
+      "blob": "798deecb-0895-447d-854a-b0218779154f",
+      "zarr": null,
+      "path": "sub-23280/sub-23280_ses-23280-240525_ecephys.nwb",
+      "size": 2872752,
+      "created": "2026-10-02T13:54:34.058019Z",
+      "modified": "2026-10-04T14:10:37.071657Z"
+    },
+    {
+      "asset_id": "49bdb7af-bcea-4203-baf9-501824c5c21c",
+      "blob": "8be4144c-65d0-47e8-b930-8e33211769f9",
+      "zarr": null,
+      "path": "sub-23280/sub-23280_ses-23280-240526_ecephys.nwb",
+      "size": 1865861,
+      "created": "2026-10-02T13:54:34.688989Z",
+      "modified": "2026-10-04T14:10:37.086435Z"
+    },
+    {
+      "asset_id": "8588328d-60db-43be-8f80-adfd8419f8ca",
+      "blob": "7c1c76f1-92f3-408a-8db3-6ea7732ab102",
+      "zarr": null,
+      "path": "sub-23280/sub-23280_ses-23280-240527_ecephys.nwb",
+      "size": 2240393,
+      "created": "2026-10-02T13:54:34.835069Z",
+      "modified": "2026-10-04T14:10:37.100943Z"
+    },
+    {
+      "asset_id": "854d67b7-7a9e-4ba9-a5a6-b07ededd9bad",
+      "blob": "335b5b11-f6c8-4ed5-9348-fde7f300c0a5",
+      "zarr": null,
+      "path": "sub-23280/sub-23280_ses-23280-240528_ecephys.nwb",
+      "size": 21933158,
+      "created": "2026-10-02T13:54:37.576653Z",
+      "modified": "2026-10-04T14:10:37.110213Z"
+    },
+    {
+      "asset_id": "95ff8483-9b2d-4188-aefd-952334f08c04",
+      "blob": "894897d5-fcb0-49ef-8cf6-9b3f0afdc74a",
+      "zarr": null,
+      "path": "sub-23280/sub-23280_ses-23280-240530_ecephys.nwb",
+      "size": 14188389,
+      "created": "2026-10-02T13:54:38.237721Z",
+      "modified": "2026-10-04T14:10:37.122302Z"
+    },
+    {
+      "asset_id": "6c4c892b-fd65-4ac4-9322-4cba90f0724e",
+      "blob": "2fcfacc0-4571-447b-a393-5612a8e85cb7",
+      "zarr": null,
+      "path": "sub-23280/sub-23280_ses-23280-240531_ecephys.nwb",
+      "size": 1047173,
+      "created": "2026-10-02T13:54:38.376850Z",
+      "modified": "2026-10-04T14:10:37.135203Z"
+    },
+    {
+      "asset_id": "439e73f4-2b25-4646-bf0c-0db95e0bcf81",
+      "blob": "6c3144c3-b0ce-48e0-aad6-17b3d9ed47fb",
+      "zarr": null,
+      "path": "sub-23280/sub-23280_ses-23280-240529_ecephys.nwb",
+      "size": 9051695,
+      "created": "2026-10-02T13:54:38.587506Z",
+      "modified": "2026-10-04T14:10:37.143886Z"
+    },
+    {
+      "asset_id": "f824aea6-479b-40d6-96fa-7b130a754d09",
+      "blob": "62563d9c-94b8-4847-92cc-8d67c305dc7c",
+      "zarr": null,
+      "path": "sub-23280/sub-23280_ses-23280-240601_ecephys.nwb",
+      "size": 678793,
+      "created": "2026-10-02T13:54:38.677128Z",
+      "modified": "2026-10-04T14:10:37.155742Z"
+    },
+    {
+      "asset_id": "af636f56-b20e-4d68-8ac1-023f3fb7f6c5",
+      "blob": "e6915ea7-47ad-46b0-a2c3-0955c649923b",
+      "zarr": null,
+      "path": "sub-23280/sub-23280_ses-23280-240602_ecephys.nwb",
+      "size": 1110383,
+      "created": "2026-10-02T13:54:41.415000Z",
+      "modified": "2026-10-04T14:10:37.167160Z"
+    },
+    {
+      "asset_id": "b0faf7bf-5f24-4d50-9eda-56b12bfcf921",
+      "blob": "36884255-ba31-4ae9-aba6-d935978fcacb",
+      "zarr": null,
+      "path": "sub-23282/sub-23282_ses-23282-240622_ecephys.nwb",
+      "size": 10606922,
+      "created": "2026-10-02T13:54:43.246864Z",
+      "modified": "2026-10-04T14:10:37.179435Z"
+    },
+    {
+      "asset_id": "6b8412ac-64e4-4a23-9bb8-9c21d46de204",
+      "blob": "7caa2386-6a4d-413e-8398-e74a1993d87d",
+      "zarr": null,
+      "path": "sub-23282/sub-23282_ses-23282-240624_ecephys.nwb",
+      "size": 5522350,
+      "created": "2026-10-02T13:54:43.991301Z",
+      "modified": "2026-10-04T14:10:37.189977Z"
+    },
+    {
+      "asset_id": "cd62eafb-6064-4094-afa3-bbe604ff17c9",
+      "blob": "69bd5513-9782-471d-b53e-0d09365fcb68",
+      "zarr": null,
+      "path": "sub-23282/sub-23282_ses-23282-240623_ecephys.nwb",
+      "size": 6361837,
+      "created": "2026-10-02T13:54:44.547565Z",
+      "modified": "2026-10-04T14:10:37.201301Z"
+    },
+    {
+      "asset_id": "f70b1628-091e-440e-8bef-bcbe376bb53f",
+      "blob": "6843fd30-8483-4f5f-ba9f-d2f82d91e470",
+      "zarr": null,
+      "path": "sub-23282/sub-23282_ses-23282-240625_ecephys.nwb",
+      "size": 7387185,
+      "created": "2026-10-02T13:54:45.747111Z",
+      "modified": "2026-10-04T14:10:37.212611Z"
+    },
+    {
+      "asset_id": "c97a7dc2-82c6-4bc4-83d4-e48e5bb4efc2",
+      "blob": "0b3928b9-fcaf-4785-b1a7-b05d5f0dd12a",
+      "zarr": null,
+      "path": "sub-23282/sub-23282_ses-23282-240626_ecephys.nwb",
+      "size": 5591423,
+      "created": "2026-10-02T13:54:47.374964Z",
+      "modified": "2026-10-04T14:10:37.222851Z"
+    },
+    {
+      "asset_id": "98c23984-46ff-4f7f-98fc-741df3c50261",
+      "blob": "d3d1e0b5-c2a5-4686-be96-53dd8bc2a843",
+      "zarr": null,
+      "path": "sub-23282/sub-23282_ses-23282-240627_ecephys.nwb",
+      "size": 1724845,
+      "created": "2026-10-02T13:54:47.753789Z",
+      "modified": "2026-10-04T14:10:37.235059Z"
+    },
+    {
+      "asset_id": "e489a436-46c1-4078-ae0f-15749e299a19",
+      "blob": "cd3b6ef3-2cd6-42fd-84c4-a3f4f9976f53",
+      "zarr": null,
+      "path": "sub-23282/sub-23282_ses-23282-240628_ecephys.nwb",
+      "size": 7526667,
+      "created": "2026-10-02T13:54:48.783258Z",
+      "modified": "2026-10-04T14:10:37.245244Z"
+    },
+    {
+      "asset_id": "58bf4ce6-3ddb-4307-93f0-9c2a28719ffe",
+      "blob": "469c5f98-dcda-447e-9474-5028bb492a48",
+      "zarr": null,
+      "path": "sub-23282/sub-23282_ses-23282-240621_ecephys.nwb",
+      "size": 8117958,
+      "created": "2026-10-02T13:54:49.847567Z",
+      "modified": "2026-10-04T14:10:37.255461Z"
+    },
+    {
+      "asset_id": "cdc3025d-b40c-4185-9e9b-daaf3980b030",
+      "blob": "ac48ea72-3117-4327-b83a-96e8ef4b517b",
+      "zarr": null,
+      "path": "sub-23282/sub-23282_ses-23282-240630_ecephys.nwb",
+      "size": 748688,
+      "created": "2026-10-02T13:54:55.571260Z",
+      "modified": "2026-10-04T14:10:37.266452Z"
+    },
+    {
+      "asset_id": "fa61cce7-92a5-44e5-8825-1e35cdb4407f",
+      "blob": "44d616c7-f11e-4321-82b2-7764a73445f7",
+      "zarr": null,
+      "path": "sub-23282/sub-23282_ses-23282-240701_ecephys.nwb",
+      "size": 660727,
+      "created": "2026-10-02T13:54:55.883969Z",
+      "modified": "2026-10-04T14:10:37.274961Z"
+    },
+    {
+      "asset_id": "6b10a549-f1af-41fc-9989-6a6dcd50bfbc",
+      "blob": "46d01f74-aedd-415e-ac02-a1b22dfd83fd",
+      "zarr": null,
+      "path": "sub-23302/sub-23302_ses-23302-240619_ecephys.nwb",
+      "size": 658422,
+      "created": "2026-10-02T13:54:56.450082Z",
+      "modified": "2026-10-04T14:10:37.285048Z"
+    },
+    {
+      "asset_id": "4657d2e1-16cc-4cb8-b51b-177e5a322899",
+      "blob": "0c2c9ea2-55a4-45f4-b80a-60df61c1e3c7",
+      "zarr": null,
+      "path": "sub-23282/sub-23282_ses-23282-240629_ecephys.nwb",
+      "size": 674655,
+      "created": "2026-10-02T13:54:56.716468Z",
+      "modified": "2026-10-04T14:10:37.293761Z"
+    },
+    {
+      "asset_id": "bb45a0e3-1b1b-445a-a429-8cba1b458089",
+      "blob": "6743eaae-2087-49ef-ac2a-9cb5e23550eb",
+      "zarr": null,
+      "path": "sub-23302/sub-23302_ses-23302-240621_ecephys.nwb",
+      "size": 8262052,
+      "created": "2026-10-02T13:54:57.193371Z",
+      "modified": "2026-10-04T14:10:37.304433Z"
+    },
+    {
+      "asset_id": "85a92700-c958-48c1-b6a0-0aa42e948f9a",
+      "blob": "d7087d13-41f0-43bd-ac86-c8c26072f6db",
+      "zarr": null,
+      "path": "sub-23302/sub-23302_ses-23302-240622_ecephys.nwb",
+      "size": 4350561,
+      "created": "2026-10-02T13:54:59.839875Z",
+      "modified": "2026-10-04T14:10:37.315473Z"
+    },
+    {
+      "asset_id": "62d4de4a-9f9f-4571-a4e2-cc913a525b4d",
+      "blob": "ebc0d42e-23c5-450b-8704-62d33d272bf9",
+      "zarr": null,
+      "path": "sub-23302/sub-23302_ses-23302-240623_ecephys.nwb",
+      "size": 3340395,
+      "created": "2026-10-02T13:55:00.041299Z",
+      "modified": "2026-10-04T14:10:37.324151Z"
+    },
+    {
+      "asset_id": "8dcc8de6-19cb-4ff1-a5c2-73f654c770ba",
+      "blob": "7ec4dce1-6942-43a1-96c1-6fe5d749698e",
+      "zarr": null,
+      "path": "sub-23302/sub-23302_ses-23302-240626_ecephys.nwb",
+      "size": 803190,
+      "created": "2026-10-02T13:55:01.274814Z",
+      "modified": "2026-10-04T14:10:37.334362Z"
+    },
+    {
+      "asset_id": "a3aed36a-65dc-43c0-b3fc-515592c1416e",
+      "blob": "b548126f-fabc-4046-93e7-6b91cee68d4a",
+      "zarr": null,
+      "path": "sub-23302/sub-23302_ses-23302-240625_ecephys.nwb",
+      "size": 2857487,
+      "created": "2026-10-02T13:55:02.041012Z",
+      "modified": "2026-10-04T14:10:37.343950Z"
+    },
+    {
+      "asset_id": "356913fc-a3b2-4ffa-bb9f-efb36d491530",
+      "blob": "351f9412-e0d9-4ce7-a01f-77348dfd6904",
+      "zarr": null,
+      "path": "sub-23302/sub-23302_ses-23302-240624_ecephys.nwb",
+      "size": 5022948,
+      "created": "2026-10-02T13:55:03.033179Z",
+      "modified": "2026-10-04T14:10:37.353807Z"
+    },
+    {
+      "asset_id": "48cf9985-07aa-4e8e-9b68-b782c0c40869",
+      "blob": "a1a8bcd4-e08f-4d55-b91c-0a1d5ab5ec00",
+      "zarr": null,
+      "path": "sub-23302/sub-23302_ses-23302-240627_ecephys.nwb",
+      "size": 963421,
+      "created": "2026-10-02T13:55:03.827008Z",
+      "modified": "2026-10-04T14:10:37.365762Z"
+    },
+    {
+      "asset_id": "1e787248-4afd-4285-a5e5-8fa92b6282f1",
+      "blob": "899b6e0d-68b4-460b-8cfd-e359639fee9c",
+      "zarr": null,
+      "path": "sub-23302/sub-23302_ses-23302-240628_ecephys.nwb",
+      "size": 7027371,
+      "created": "2026-10-02T13:55:04.424039Z",
+      "modified": "2026-10-04T14:10:37.374637Z"
+    },
+    {
+      "asset_id": "323ed966-3131-4a07-86d8-1ac706eb40f1",
+      "blob": "98d7ee5b-a64f-4981-9d56-8790762bade4",
+      "zarr": null,
+      "path": "sub-23302/sub-23302_ses-23302-240629_ecephys.nwb",
+      "size": 3514098,
+      "created": "2026-10-02T13:55:05.397185Z",
+      "modified": "2026-10-04T14:10:37.384469Z"
+    },
+    {
+      "asset_id": "6136f0bf-9586-4605-8d77-7510a1be3b3f",
+      "blob": "919f911b-ca79-4c16-bb24-f5edf32fe622",
+      "zarr": null,
+      "path": "sub-23302/sub-23302_ses-23302-240630_ecephys.nwb",
+      "size": 5459388,
+      "created": "2026-10-02T13:55:07.045581Z",
+      "modified": "2026-10-04T14:10:37.394424Z"
+    },
+    {
+      "asset_id": "77eafd9f-01fb-4437-abea-be0b2dd61a97",
+      "blob": "fbf89d63-fdc2-454e-814d-67b924f735cd",
+      "zarr": null,
+      "path": "sub-23302/sub-23302_ses-23302-240702_ecephys.nwb",
+      "size": 3796664,
+      "created": "2026-10-02T13:55:08.093672Z",
+      "modified": "2026-10-04T14:10:37.402384Z"
+    },
+    {
+      "asset_id": "b868cab8-a9a6-41f4-a009-19f8cda3afe6",
+      "blob": "fc1cebdc-7f38-4d8e-8184-cc4dd9f53b8a",
+      "zarr": null,
+      "path": "sub-23302/sub-23302_ses-23302-240704_ecephys.nwb",
+      "size": 709532,
+      "created": "2026-10-02T13:55:08.388331Z",
+      "modified": "2026-10-04T14:10:37.410651Z"
+    },
+    {
+      "asset_id": "ec9bd1a1-b1a2-4006-b6c5-4f7c86092612",
+      "blob": "e3bbe03d-a704-401b-9477-8702bb84312b",
+      "zarr": null,
+      "path": "sub-23302/sub-23302_ses-23302-240701_ecephys.nwb",
+      "size": 3957872,
+      "created": "2026-10-02T13:55:08.426055Z",
+      "modified": "2026-10-04T14:10:37.421439Z"
+    },
+    {
+      "asset_id": "2e947006-2f29-4967-beef-592825cea73d",
+      "blob": "47b8d757-8ee1-4aa7-897b-d6cf7b1b8249",
+      "zarr": null,
+      "path": "sub-23302/sub-23302_ses-23302-240705_ecephys.nwb",
+      "size": 657294,
+      "created": "2026-10-02T13:55:08.929310Z",
+      "modified": "2026-10-04T14:10:37.431579Z"
+    },
+    {
+      "asset_id": "1a1757e5-35c4-43a0-bf56-3d57195cfb4b",
+      "blob": "1b09d602-db38-4928-8923-dfae6141122e",
+      "zarr": null,
+      "path": "sub-23302/sub-23302_ses-23302-240706_ecephys.nwb",
+      "size": 669286,
+      "created": "2026-10-02T13:55:11.155397Z",
+      "modified": "2026-10-04T14:10:37.439913Z"
+    },
+    {
+      "asset_id": "57f3c74c-4c72-41f5-a51c-41848c32d93c",
+      "blob": "48f16157-61df-4817-a3b6-bb204df766ac",
+      "zarr": null,
+      "path": "sub-23311/sub-23311_ses-23311-240516_ecephys.nwb",
+      "size": 2966206,
+      "created": "2026-10-02T13:55:12.386004Z",
+      "modified": "2026-10-04T14:10:37.450359Z"
+    },
+    {
+      "asset_id": "3686d80e-8f1e-4a78-ab50-53b158cc96ab",
+      "blob": "f643445f-35f4-41ac-9ade-1e8bd845f7f8",
+      "zarr": null,
+      "path": "sub-23311/sub-23311_ses-23311-240519_ecephys.nwb",
+      "size": 2186344,
+      "created": "2026-10-02T13:55:13.592941Z",
+      "modified": "2026-10-04T14:10:37.459809Z"
+    },
+    {
+      "asset_id": "63d0a4c3-ce40-46d7-816a-f1504f792809",
+      "blob": "bf7680e7-1af6-482b-b365-a6e9838f1281",
+      "zarr": null,
+      "path": "sub-23311/sub-23311_ses-23311-240517_ecephys.nwb",
+      "size": 9808164,
+      "created": "2026-10-02T13:55:13.617637Z",
+      "modified": "2026-10-04T14:10:37.473177Z"
+    },
+    {
+      "asset_id": "3b64f47a-4786-4394-893b-bed06756c77c",
+      "blob": "394980a9-d37a-4df5-9d93-f05067001bd2",
+      "zarr": null,
+      "path": "sub-23311/sub-23311_ses-23311-240518_ecephys.nwb",
+      "size": 12968425,
+      "created": "2026-10-02T13:55:14.547027Z",
+      "modified": "2026-10-04T14:10:37.484710Z"
+    },
+    {
+      "asset_id": "59857ca9-6e5c-4139-a3dd-f31d7c67fe3b",
+      "blob": "38852d76-6160-40ec-af85-6f701925d49e",
+      "zarr": null,
+      "path": "sub-23311/sub-23311_ses-23311-240520_ecephys.nwb",
+      "size": 4056251,
+      "created": "2026-10-02T13:55:15.413886Z",
+      "modified": "2026-10-04T14:10:37.495127Z"
+    },
+    {
+      "asset_id": "a44aadba-8ec5-460b-9766-222fba8f2156",
+      "blob": "4188a4a5-a3f3-4cc0-8a66-db529f9fcee2",
+      "zarr": null,
+      "path": "sub-23311/sub-23311_ses-23311-240521_ecephys.nwb",
+      "size": 5626271,
+      "created": "2026-10-02T13:55:16.210383Z",
+      "modified": "2026-10-04T14:10:37.503418Z"
+    },
+    {
+      "asset_id": "41f29487-756b-46fb-a033-273320cc6903",
+      "blob": "4c4ade10-3119-4e65-93e9-bda777c2b8c0",
+      "zarr": null,
+      "path": "sub-23311/sub-23311_ses-23311-240522_ecephys.nwb",
+      "size": 4054078,
+      "created": "2026-10-02T13:55:17.306363Z",
+      "modified": "2026-10-04T14:10:37.513311Z"
+    },
+    {
+      "asset_id": "a6649502-be87-4a13-93dd-0ba9690a49f6",
+      "blob": "8c414883-c5a2-4237-bcf9-ee00b34854ed",
+      "zarr": null,
+      "path": "sub-23311/sub-23311_ses-23311-240524_ecephys.nwb",
+      "size": 2996639,
+      "created": "2026-10-02T13:55:18.434991Z",
+      "modified": "2026-10-04T14:10:37.521460Z"
+    },
+    {
+      "asset_id": "66ca8b8e-d16a-4ad1-a90c-2691eedf65e1",
+      "blob": "3c2c1b6d-5a36-4364-a2e0-8a22dccdb73a",
+      "zarr": null,
+      "path": "sub-23311/sub-23311_ses-23311-240525_ecephys.nwb",
+      "size": 1088398,
+      "created": "2026-10-02T13:55:18.527783Z",
+      "modified": "2026-10-04T14:10:37.533439Z"
+    },
+    {
+      "asset_id": "d5408d58-d6f4-408a-9a2b-3f40977af3d3",
+      "blob": "cf422d11-1075-4ac4-aceb-2e69323beaa0",
+      "zarr": null,
+      "path": "sub-23311/sub-23311_ses-23311-240526_ecephys.nwb",
+      "size": 1078986,
+      "created": "2026-10-02T13:55:18.945375Z",
+      "modified": "2026-10-04T14:10:37.543427Z"
+    },
+    {
+      "asset_id": "49c3265a-f138-44c2-8c16-e4c081681918",
+      "blob": "e8136ec2-e682-4768-a79c-6ada5eae4d08",
+      "zarr": null,
+      "path": "sub-23311/sub-23311_ses-23311-240527_ecephys.nwb",
+      "size": 1179574,
+      "created": "2026-10-02T13:55:20.756252Z",
+      "modified": "2026-10-04T14:10:37.554206Z"
+    },
+    {
+      "asset_id": "1273ca4c-f5e2-44d1-aa29-3edc9e059f61",
+      "blob": "6e7ff9d2-747a-4b93-ad9f-efb75bbd8411",
+      "zarr": null,
+      "path": "sub-23311/sub-23311_ses-23311-240528_ecephys.nwb",
+      "size": 3983319,
+      "created": "2026-10-02T13:55:21.931229Z",
+      "modified": "2026-10-04T14:10:37.562480Z"
+    },
+    {
+      "asset_id": "caba50d6-5f6f-4229-a649-731f252def0d",
+      "blob": "7862faf5-e26a-4e0f-8ce0-dceaf15ad7af",
+      "zarr": null,
+      "path": "sub-23311/sub-23311_ses-23311-240530_ecephys.nwb",
+      "size": 2844315,
+      "created": "2026-10-02T13:55:22.549044Z",
+      "modified": "2026-10-04T14:10:37.571142Z"
+    },
+    {
+      "asset_id": "53c68ae1-a0a6-4ace-9225-2c07ed495304",
+      "blob": "3d1c057d-65db-4db5-9599-69f23938239f",
+      "zarr": null,
+      "path": "sub-23311/sub-23311_ses-23311-240529_ecephys.nwb",
+      "size": 1912554,
+      "created": "2026-10-02T13:55:22.659768Z",
+      "modified": "2026-10-04T14:10:37.582399Z"
+    },
+    {
+      "asset_id": "9130d9b9-b2b7-483c-ade3-6bec15a43407",
+      "blob": "f34c5a3f-5342-4838-bcad-d163ade7e390",
+      "zarr": null,
+      "path": "sub-23311/sub-23311_ses-23311-240531_ecephys.nwb",
+      "size": 1793729,
+      "created": "2026-10-02T13:55:23.137274Z",
+      "modified": "2026-10-04T14:10:37.593165Z"
+    },
+    {
+      "asset_id": "3d67baf4-c1cb-4072-9530-1497fb8d3188",
+      "blob": "2d81289d-9fe5-4f10-bfa3-872e1733cdae",
+      "zarr": null,
+      "path": "sub-23311/sub-23311_ses-23311-240601_ecephys.nwb",
+      "size": 1497409,
+      "created": "2026-10-02T13:55:24.617190Z",
+      "modified": "2026-10-04T14:10:37.602579Z"
+    },
+    {
+      "asset_id": "59d046e9-ed9a-4dcd-bceb-b457c4c142ed",
+      "blob": "d4064285-a686-45d7-94d3-26ff1b32b28a",
+      "zarr": null,
+      "path": "sub-23311/sub-23311_ses-23311-240602_ecephys.nwb",
+      "size": 1286998,
+      "created": "2026-10-02T13:55:25.819529Z",
+      "modified": "2026-10-04T14:10:37.626576Z"
+    },
+    {
+      "asset_id": "86c20b27-2dc5-4838-bf20-724268ee27ae",
+      "blob": "83147cb2-8919-4035-b5f4-693e0eabe0ec",
+      "zarr": null,
+      "path": "sub-23311/sub-23311_ses-23311-240603_ecephys.nwb",
+      "size": 771639,
+      "created": "2026-10-02T13:55:26.091277Z",
+      "modified": "2026-10-04T14:10:37.637472Z"
+    },
+    {
+      "asset_id": "21d959ad-74ed-498f-a569-61a1dc9123e7",
+      "blob": "ef41a5fe-792b-45d6-ab7a-59381df3b15f",
+      "zarr": null,
+      "path": "sub-23312/sub-23312_ses-23312-240423_ecephys.nwb",
+      "size": 3158411,
+      "created": "2026-10-02T13:55:28.537184Z",
+      "modified": "2026-10-04T14:10:37.649452Z"
+    },
+    {
+      "asset_id": "b344848b-3d1d-4c44-b9a2-a8d4808265a6",
+      "blob": "940a3588-93e9-43dc-a300-9b5ec8ca2c4f",
+      "zarr": null,
+      "path": "sub-23312/sub-23312_ses-23312-240419_ecephys.nwb",
+      "size": 6419111,
+      "created": "2026-10-02T13:55:28.545112Z",
+      "modified": "2026-10-04T14:10:37.659435Z"
+    },
+    {
+      "asset_id": "a2577202-9b14-4028-ba8b-d9ababd0e007",
+      "blob": "d0a54c3f-8077-49e7-a1ec-5e78cbd67173",
+      "zarr": null,
+      "path": "sub-23312/sub-23312_ses-23312-240418_ecephys.nwb",
+      "size": 3839584,
+      "created": "2026-10-02T13:55:29.019842Z",
+      "modified": "2026-10-04T14:10:37.670803Z"
+    },
+    {
+      "asset_id": "c28084b3-3b9d-4841-9a8a-ae9dbb1a753c",
+      "blob": "4d621a45-e16f-47a0-8388-dea7dbe19949",
+      "zarr": null,
+      "path": "sub-23312/sub-23312_ses-23312-240424_ecephys.nwb",
+      "size": 6681551,
+      "created": "2026-10-02T13:55:29.959039Z",
+      "modified": "2026-10-04T14:10:37.680438Z"
+    },
+    {
+      "asset_id": "45bc16f8-2e14-4626-8d57-b08fa6819bc2",
+      "blob": "08b2cd01-16c0-4986-af8e-ba3b217bf9de",
+      "zarr": null,
+      "path": "sub-23312/sub-23312_ses-23312-240425_ecephys.nwb",
+      "size": 5742154,
+      "created": "2026-10-02T13:55:30.592951Z",
+      "modified": "2026-10-04T14:10:37.691311Z"
+    },
+    {
+      "asset_id": "f32a2b93-c981-4e03-bece-0ec190a5f4f2",
+      "blob": "6b22c618-7c1e-445b-acb5-59b8dd21feab",
+      "zarr": null,
+      "path": "sub-23312/sub-23312_ses-23312-240428_ecephys.nwb",
+      "size": 3216088,
+      "created": "2026-10-02T13:55:33.005974Z",
+      "modified": "2026-10-04T14:10:37.701792Z"
+    },
+    {
+      "asset_id": "18f68496-5438-462f-9f10-28f7df359ae1",
+      "blob": "e4779c38-a128-49e6-9321-08daefb726ce",
+      "zarr": null,
+      "path": "sub-23312/sub-23312_ses-23312-240426_ecephys.nwb",
+      "size": 2658690,
+      "created": "2026-10-02T13:55:33.166797Z",
+      "modified": "2026-10-04T14:10:37.712449Z"
+    },
+    {
+      "asset_id": "92fe8f52-7b79-4645-a281-cb20e8f572ec",
+      "blob": "6c6ec1e2-8398-447e-b032-641ce008608b",
+      "zarr": null,
+      "path": "sub-23312/sub-23312_ses-23312-240427_ecephys.nwb",
+      "size": 2977531,
+      "created": "2026-10-02T13:55:33.333879Z",
+      "modified": "2026-10-04T14:10:37.724496Z"
+    },
+    {
+      "asset_id": "dc472f28-b94e-40ee-8613-c5579f307664",
+      "blob": "3c5aeee9-431d-4d2c-9156-8540e9567c82",
+      "zarr": null,
+      "path": "sub-23312/sub-23312_ses-23312-240429_ecephys.nwb",
+      "size": 4500998,
+      "created": "2026-10-02T13:55:34.089145Z",
+      "modified": "2026-10-04T14:10:37.740168Z"
+    },
+    {
+      "asset_id": "6d6214df-c497-47ef-9e62-4870cf4284c7",
+      "blob": "1a9c402b-03b2-44ea-868b-145f3116bfe8",
+      "zarr": null,
+      "path": "sub-23312/sub-23312_ses-23312-240430_ecephys.nwb",
+      "size": 8316819,
+      "created": "2026-10-02T13:55:35.470809Z",
+      "modified": "2026-10-04T14:10:37.750370Z"
+    },
+    {
+      "asset_id": "302ccce8-0387-4d72-820e-0a6b4d011e1c",
+      "blob": "3914ac9c-64c2-49ff-9d2a-0187e898a3b1",
+      "zarr": null,
+      "path": "sub-23312/sub-23312_ses-23312-240501_ecephys.nwb",
+      "size": 15319656,
+      "created": "2026-10-02T13:55:38.335443Z",
+      "modified": "2026-10-04T14:10:37.760383Z"
+    },
+    {
+      "asset_id": "3036bc40-826d-4e7f-a19c-bdcf53ce46d1",
+      "blob": "8f613d1d-1640-4f32-a93a-a4412bfdfe22",
+      "zarr": null,
+      "path": "sub-23312/sub-23312_ses-23312-240503_ecephys.nwb",
+      "size": 34860240,
+      "created": "2026-10-02T13:55:40.975082Z",
+      "modified": "2026-10-04T14:10:37.770405Z"
+    },
+    {
+      "asset_id": "139e4c17-1c31-42d7-b25a-31ce41b88d1a",
+      "blob": "9f0ba302-bea2-4e7d-a126-305dfee3e5d1",
+      "zarr": null,
+      "path": "sub-23312/sub-23312_ses-23312-240504_ecephys.nwb",
+      "size": 40223974,
+      "created": "2026-10-02T13:55:42.162001Z",
+      "modified": "2026-10-04T14:10:37.782105Z"
+    },
+    {
+      "asset_id": "88071b8c-44d4-4b34-9086-7ee43bef7a44",
+      "blob": "d9b084fc-935d-454a-b877-217ff99d3cc0",
+      "zarr": null,
+      "path": "sub-23312/sub-23312_ses-23312-240505_ecephys.nwb",
+      "size": 46752424,
+      "created": "2026-10-02T13:55:42.504387Z",
+      "modified": "2026-10-04T14:10:37.791679Z"
+    },
+    {
+      "asset_id": "c9b1cd4f-7602-41b4-9ab9-2de146638323",
+      "blob": "706a016f-0159-46ed-88f8-b0da50cb15e5",
+      "zarr": null,
+      "path": "sub-23312/sub-23312_ses-23312-240506_ecephys.nwb",
+      "size": 54231479,
+      "created": "2026-10-02T13:55:43.943076Z",
+      "modified": "2026-10-04T14:10:37.803560Z"
+    },
+    {
+      "asset_id": "6bbce308-ccc3-4e4d-a19e-4f3a6e513eff",
+      "blob": "29de6856-8db7-4047-a80b-f81d86b35afc",
+      "zarr": null,
+      "path": "sub-23312/sub-23312_ses-23312-240510_ecephys.nwb",
+      "size": 798078,
+      "created": "2026-10-02T13:55:45.773548Z",
+      "modified": "2026-10-04T14:10:37.814247Z"
+    },
+    {
+      "asset_id": "1e401073-d139-48ab-885b-062195ea0455",
+      "blob": "e69dd8dc-d157-4d58-9e4c-ae4b433f779b",
+      "zarr": null,
+      "path": "sub-23312/sub-23312_ses-23312-240508_ecephys.nwb",
+      "size": 38013443,
+      "created": "2026-10-02T13:55:47.356680Z",
+      "modified": "2026-10-04T14:10:37.825008Z"
+    },
+    {
+      "asset_id": "10661a7b-12b8-415c-8f6f-eb5b4d1c76d1",
+      "blob": "b81208cd-0abe-4450-a5d6-f61d0ee32232",
+      "zarr": null,
+      "path": "sub-23312/sub-23312_ses-23312-240507_ecephys.nwb",
+      "size": 95218343,
+      "created": "2026-10-02T13:55:48.557929Z",
+      "modified": "2026-10-04T14:10:37.834248Z"
+    },
+    {
+      "asset_id": "93b5e8cb-631f-4372-ab1b-63f1bc9a39cc",
+      "blob": "ec6d73a8-76f1-4d8c-a938-7bdd04a9c85b",
+      "zarr": null,
+      "path": "sub-23312/sub-23312_ses-23312-240511_ecephys.nwb",
+      "size": 33845038,
+      "created": "2026-10-02T13:55:49.422220Z",
+      "modified": "2026-10-04T14:10:37.845578Z"
+    },
+    {
+      "asset_id": "bd22d443-6a1d-4ece-86d6-e70079d3933d",
+      "blob": "bd22e1b1-624f-48e9-b42d-9ce2efc42f9a",
+      "zarr": null,
+      "path": "sub-23312/sub-23312_ses-23312-240509_ecephys.nwb",
+      "size": 54304816,
+      "created": "2026-10-02T13:55:51.478796Z",
+      "modified": "2026-10-04T14:10:37.857596Z"
+    },
+    {
+      "asset_id": "5790e003-6ee9-4e1b-bcb0-dd7a3ec69b5e",
+      "blob": "3587207c-5f66-481c-b109-51bd136846dd",
+      "zarr": null,
+      "path": "sub-23317/sub-23317_ses-23317-240605_ecephys.nwb",
+      "size": 713770,
+      "created": "2026-10-02T13:55:52.802129Z",
+      "modified": "2026-10-04T14:10:37.865311Z"
+    },
+    {
+      "asset_id": "aba760e8-0c17-4912-8359-76bf612cbca6",
+      "blob": "449e7e08-c7bb-477f-9b54-d749b1de1daa",
+      "zarr": null,
+      "path": "sub-23312/sub-23312_ses-23312-240512_ecephys.nwb",
+      "size": 38453376,
+      "created": "2026-10-02T13:55:52.940889Z",
+      "modified": "2026-10-04T14:10:37.873680Z"
+    },
+    {
+      "asset_id": "adda26d5-4778-4d81-9851-a94bd1db5ebf",
+      "blob": "8657aab6-0c6b-4ce3-bd70-04c6cb43ca11",
+      "zarr": null,
+      "path": "sub-23317/sub-23317_ses-23317-240606_ecephys.nwb",
+      "size": 4356954,
+      "created": "2026-10-02T13:55:53.561405Z",
+      "modified": "2026-10-04T14:10:37.883466Z"
+    },
+    {
+      "asset_id": "2c442474-7e24-483c-8891-fdcea314ee1a",
+      "blob": "3b711e32-1e85-4893-be62-93c86e25ac81",
+      "zarr": null,
+      "path": "sub-23317/sub-23317_ses-23317-240607_ecephys.nwb",
+      "size": 3564315,
+      "created": "2026-10-02T13:55:54.950306Z",
+      "modified": "2026-10-04T14:10:37.895191Z"
+    },
+    {
+      "asset_id": "7c7c8fad-5122-46a3-9634-3cdfa4012e07",
+      "blob": "c2266607-742b-44da-b024-59519ea62811",
+      "zarr": null,
+      "path": "sub-23312/sub-23312_ses-23312-240513_ecephys.nwb",
+      "size": 51265258,
+      "created": "2026-10-02T13:55:55.743407Z",
+      "modified": "2026-10-04T14:10:37.907599Z"
+    },
+    {
+      "asset_id": "04ee97ba-2fd7-4e00-8306-2187b4fec26c",
+      "blob": "fd9a6e6f-32eb-4550-ac55-906b39e5e06d",
+      "zarr": null,
+      "path": "sub-23317/sub-23317_ses-23317-240609_ecephys.nwb",
+      "size": 687312,
+      "created": "2026-10-02T13:55:56.226017Z",
+      "modified": "2026-10-04T14:10:37.920822Z"
+    },
+    {
+      "asset_id": "9851b84d-b794-417f-93bd-a92291033593",
+      "blob": "48f37560-1294-4ed6-8869-8a512835f831",
+      "zarr": null,
+      "path": "sub-23317/sub-23317_ses-23317-240608_ecephys.nwb",
+      "size": 683121,
+      "created": "2026-10-02T13:55:56.385413Z",
+      "modified": "2026-10-04T14:10:37.931664Z"
+    },
+    {
+      "asset_id": "97b9275d-79c7-47df-b0a9-54ed609cddbb",
+      "blob": "82574116-64f6-4aec-8c54-e5231c061c38",
+      "zarr": null,
+      "path": "sub-23317/sub-23317_ses-23317-240611_ecephys.nwb",
+      "size": 1802231,
+      "created": "2026-10-02T13:55:58.477810Z",
+      "modified": "2026-10-04T14:10:37.941477Z"
+    },
+    {
+      "asset_id": "a0dd9101-b490-46f0-9d95-25c3a990d3cb",
+      "blob": "2c0c1430-6a4f-45f1-8cfc-5f30bee7a830",
+      "zarr": null,
+      "path": "sub-23317/sub-23317_ses-23317-240612_ecephys.nwb",
+      "size": 1412561,
+      "created": "2026-10-02T13:56:01.426181Z",
+      "modified": "2026-10-04T14:10:37.954459Z"
+    },
+    {
+      "asset_id": "e8fc16e3-ccc6-493f-826f-ae4eafe155a6",
+      "blob": "ceac9f11-89bf-454c-a984-5246531009f8",
+      "zarr": null,
+      "path": "sub-23317/sub-23317_ses-23317-240613_ecephys.nwb",
+      "size": 1702045,
+      "created": "2026-10-02T13:56:01.814419Z",
+      "modified": "2026-10-04T14:10:37.966316Z"
+    },
+    {
+      "asset_id": "682e2095-5037-444b-972c-bd7ef0fe53cc",
+      "blob": "bd192c90-2fb6-4df0-b56d-053dff12a9b0",
+      "zarr": null,
+      "path": "sub-23317/sub-23317_ses-23317-240614_ecephys.nwb",
+      "size": 7080368,
+      "created": "2026-10-02T13:56:02.008643Z",
+      "modified": "2026-10-04T14:10:37.978552Z"
+    },
+    {
+      "asset_id": "a28c9c17-1f42-49af-ae63-3c090143d7df",
+      "blob": "9f7a434f-19ef-4999-ae9e-15701657099f",
+      "zarr": null,
+      "path": "sub-23317/sub-23317_ses-23317-240615_ecephys.nwb",
+      "size": 5871632,
+      "created": "2026-10-02T13:56:02.291420Z",
+      "modified": "2026-10-04T14:10:37.990184Z"
+    },
+    {
+      "asset_id": "0d3f751c-6f0e-46cd-a024-d2683a288610",
+      "blob": "c7033ca0-a83f-4bd8-852e-9d2295e711ef",
+      "zarr": null,
+      "path": "sub-23317/sub-23317_ses-23317-240616_ecephys.nwb",
+      "size": 8244192,
+      "created": "2026-10-02T13:56:03.157663Z",
+      "modified": "2026-10-04T14:10:38.001334Z"
+    },
+    {
+      "asset_id": "57c180b7-184e-406e-a7e3-9f9dafb065de",
+      "blob": "57217bd7-6d82-4902-a20b-9675e83baaa7",
+      "zarr": null,
+      "path": "sub-23317/sub-23317_ses-23317-240617_ecephys.nwb",
+      "size": 6906138,
+      "created": "2026-10-02T13:56:05.895733Z",
+      "modified": "2026-10-04T14:10:38.012508Z"
+    },
+    {
+      "asset_id": "2ddbd3c1-f6ea-4ff8-a83d-af9b394e56b8",
+      "blob": "77c93f59-bae4-43f1-b4f2-0292a85b39ff",
+      "zarr": null,
+      "path": "sub-23317/sub-23317_ses-23317-240619_ecephys.nwb",
+      "size": 4741351,
+      "created": "2026-10-02T13:56:06.158987Z",
+      "modified": "2026-10-04T14:10:38.022493Z"
+    },
+    {
+      "asset_id": "beb2e25c-5cc1-4975-93f0-68569ff0b067",
+      "blob": "7492af4d-3ea6-430c-b4e4-516e650791ed",
+      "zarr": null,
+      "path": "sub-23317/sub-23317_ses-23317-240620_ecephys.nwb",
+      "size": 4384606,
+      "created": "2026-10-02T13:56:06.467139Z",
+      "modified": "2026-10-04T14:10:38.032988Z"
+    },
+    {
+      "asset_id": "5ff9a37e-3cdc-4f42-82ac-0eb63efd8e0f",
+      "blob": "a4e80a35-7f57-4c08-bb75-87ca0d3d7813",
+      "zarr": null,
+      "path": "sub-23317/sub-23317_ses-23317-240618_ecephys.nwb",
+      "size": 10523709,
+      "created": "2026-10-02T13:56:06.896249Z",
+      "modified": "2026-10-04T14:10:38.043196Z"
+    }
+  ]
+}

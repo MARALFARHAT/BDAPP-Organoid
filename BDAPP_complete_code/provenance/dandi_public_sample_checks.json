@@ -1,0 +1,16 @@
+[
+  {
+    "asset_id": "4694d46a-efb4-42db-a91f-7927c7c32f4e",
+    "path": "sub-19880/sub-19880_ses-19880-240301_ecephys.nwb",
+    "bytes": 8933615,
+    "sha256_verified": "c68c61f4bcedffde6cae578a50f7d7c33d456333ee90ec96b531023727da63cb",
+    "sample_event_table": "processing/ecephys/detected_spikes"
+  },
+  {
+    "asset_id": "2e947006-2f29-4967-beef-592825cea73d",
+    "path": "sub-23302/sub-23302_ses-23302-240705_ecephys.nwb",
+    "bytes": 657294,
+    "sha256_verified": "9919ba6dcbf374771b2e4636e8e67b7fdc9456e973b2bd70a29b71e1c4d90f83",
+    "sample_event_table": "processing/ecephys/detected_spikes"
+  }
+]

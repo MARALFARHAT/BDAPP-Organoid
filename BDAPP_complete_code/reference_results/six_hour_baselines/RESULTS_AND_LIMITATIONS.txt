@@ -1,0 +1,50 @@
+BDAPP: actual six-hour baseline results
+
+Train FS369, test FS437. No random mixing of experiment windows.
+Age label: assessment timestamp minus documented Batch Start.
+Endpoint label: metadata Dead Date minus assessment timestamp.
+Both are aggregate experiment labels. The endpoint task is not validated individual survival prediction.
+
+batch_calendar_age_days
+                              model   MAE_days           R2
+                    training_median  98.250000 -4011.662338
+                  event_count_ridge  85.169504 -3030.932021
+                  environment_ridge  94.556772 -3716.465991
+            event_environment_ridge  88.779222 -3283.777934
+event_environment_stimulation_ridge  87.183763 -3165.606775
+           event_environment_forest  91.447504 -3476.035697
+         recording_clock_diagnostic 106.000000 -4668.506493
+
+days_until_recorded_experiment_endpoint
+                              model  MAE_days         R2
+                    training_median  7.561111 -23.759128
+                  event_count_ridge  6.106110 -29.007503
+                  environment_ridge  3.867884  -6.950064
+            event_environment_ridge  4.008753  -9.760950
+event_environment_stimulation_ridge  4.209797 -11.851916
+           event_environment_forest  1.756674  -0.851953
+         recording_clock_diagnostic 15.311111 -96.425506
+
+Limitations
+- Only two aggregate experiment records, both labeled NS Batch 3 with the same Batch Start. Biological independence is unverified.
+- Number of NS is 12 in both records. No electrode-to-neurosphere mapping or individual endpoints were supplied.
+- Batch age is arithmetic from the supplied Batch Start. It is not an independently measured maturation state.
+- Recorded endpoints have activity-based causes ('Almost no activity' / 'No activity'); the endpoint task may be circular and lacks independently verified death labels.
+- Six-hour counts are not exposure-normalized rates. Partial observation, acquisition settings and stimulation artifacts may drive patterns.
+- An absent stimulation aggregate remains unknown. Training-median imputation and missingness indicators may encode acquisition differences.
+- Environmental units and causal effects are not verified. Reported values enter exploratory models only.
+- FS369 and FS437 cover non-overlapping age ranges. Transfer tests require substantial extrapolation.
+- Temporal windows are dependent. No window-level confidence intervals or population-generalization claims are reported.
+- Hyperparameters are fixed. All compared models and negative results are retained. FS437 is now an inspected evaluation set, not untouched future confirmation.
+- These six-hour baseline inputs cannot implement the original one-hour timing/burst/synchrony feature plan.
+- DANDI and Zenodo data are absent from this ZIP. No external validation has run.
+- Both supplied README copies describe FS369. FS437 acquisition conventions need their own confirmation.
+- Within each experiment, batch age and time to the recorded endpoint sum to a constant. Their within-experiment errors are not independent confirmations.
+- A recording-clock diagnostic can reconstruct time-based targets within one experiment. Its near-zero internal error is arithmetic, not neural age prediction.
+
+Reproduction
+python model_stage.py --input BDAPP_model_inputs.zip
+Dependencies: numpy pandas matplotlib scikit-learn
+
+Methods reference: https://scikit-learn.org/stable/common_pitfalls.html
+Labels and experimental context: README.md and metadata.json within the supplied ZIP.

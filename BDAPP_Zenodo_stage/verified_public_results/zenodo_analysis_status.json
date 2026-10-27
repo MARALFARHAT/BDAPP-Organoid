@@ -1,0 +1,32 @@
+{
+  "processed_organoids": 45,
+  "experiment_prefixes": 16,
+  "detected_events": 856988,
+  "status_counts": {
+    "processed": 45,
+    "duplicate_identical": 1
+  },
+  "duration_values_s": [
+    200.0,
+    400.0,
+    600.0,
+    1000.0,
+    1200.0,
+    1800.0,
+    3600.0
+  ],
+  "biological_age_prediction": "not performed: no per-organoid labels",
+  "lifespan_prediction": "not performed",
+  "notes": [
+    "Separate descriptive human forebrain organoid dataset; not pooled with whole-life FinalSpark models.",
+    "Durations come from each file's metadata/recording_duration, not the publication-wide duration description or last spike.",
+    "Per-organoid age and independent death labels are not supplied in the verified MAT schema. No age or lifespan model is evaluated.",
+    "The cohort age range from the listing is not assigned to individual recordings.",
+    "Rates use declared duration and channel count. Continuous exposure has not been independently checked.",
+    "Channel interval/burst definitions match the implemented fixed-ISI extractor, not all MATLAB publication analyses.",
+    "Burst threshold: five events connected by ISIs <=100 ms. Bursts are censored at recording boundaries.",
+    "Amplitude retains source units. Neuron identity, intelligence and causal effects are not inferred.",
+    "If a channel's amplitude array length differs from its spike train, its amplitudes are withheld and the mismatch is reported; valid event times remain included.",
+    "Organoids sharing an fs experiment prefix may be related. File count is not verified independent biological replication."
+  ]
+}

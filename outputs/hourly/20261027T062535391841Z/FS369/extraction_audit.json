@@ -1,0 +1,18 @@
+{
+  "source_rows": 94154693,
+  "invalid_time_or_channel_rows": 0,
+  "hours_written": 509,
+  "temperature_incubator_ids": [
+    "0"
+  ],
+  "CO2_incubator_ids": [
+    "0"
+  ],
+  "O2_incubator_ids": [
+    "0"
+  ],
+  "clock_hours": 510,
+  "event_hours": 509,
+  "eligible_hours": 509,
+  "memory_guard_hours": 0
+}

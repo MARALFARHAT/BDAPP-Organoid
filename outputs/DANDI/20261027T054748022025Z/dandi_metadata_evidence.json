@@ -1,0 +1,2066 @@
+[
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240228_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.109,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240301_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.106,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240302_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.118,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240303_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.106,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240304_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.106,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240305_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.116,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240306_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.107,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240307_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.106,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240308_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.108,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240309_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.111,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240310_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.111,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240311_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.107,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240313_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.124,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240314_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.056,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240315_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.094,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240316_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.111,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240317_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.035,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240318_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.113,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240319_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.112,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240320_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.086,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240321_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.636,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240322_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.019,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240324_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.122,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240325_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.099,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240326_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.111,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240327_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.108,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240328_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.179,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240329_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1803.072,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240330_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.135,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-19880\\sub-19880_ses-19880-240331_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 19880; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.064,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23280\\sub-23280_ses-23280-240516_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23280; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.117,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23280\\sub-23280_ses-23280-240518_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23280; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.117,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23280\\sub-23280_ses-23280-240519_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23280; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.114,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23280\\sub-23280_ses-23280-240520_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23280; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.109,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23280\\sub-23280_ses-23280-240521_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23280; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.114,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23280\\sub-23280_ses-23280-240522_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23280; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.105,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23280\\sub-23280_ses-23280-240523_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23280; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.109,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23280\\sub-23280_ses-23280-240524_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23280; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.109,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23280\\sub-23280_ses-23280-240525_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23280; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.111,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23280\\sub-23280_ses-23280-240526_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23280; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.119,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23280\\sub-23280_ses-23280-240527_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23280; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.111,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23280\\sub-23280_ses-23280-240528_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23280; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.116,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23280\\sub-23280_ses-23280-240529_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23280; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.116,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23280\\sub-23280_ses-23280-240530_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23280; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.106,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23280\\sub-23280_ses-23280-240531_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23280; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.102,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23280\\sub-23280_ses-23280-240601_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23280; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.11,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23280\\sub-23280_ses-23280-240602_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23280; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.116,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23282\\sub-23282_ses-23282-240621_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23282; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.111,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23282\\sub-23282_ses-23282-240622_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23282; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.103,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23282\\sub-23282_ses-23282-240623_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23282; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.103,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23282\\sub-23282_ses-23282-240624_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23282; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.184,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23282\\sub-23282_ses-23282-240625_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23282; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.109,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23282\\sub-23282_ses-23282-240626_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23282; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.115,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23282\\sub-23282_ses-23282-240627_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23282; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.025,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23282\\sub-23282_ses-23282-240628_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23282; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.137,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23282\\sub-23282_ses-23282-240629_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23282; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.087,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23282\\sub-23282_ses-23282-240630_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23282; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.084,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23282\\sub-23282_ses-23282-240701_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23282; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.102,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23302\\sub-23302_ses-23302-240619_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23302; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.108,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23302\\sub-23302_ses-23302-240621_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23302; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.108,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23302\\sub-23302_ses-23302-240622_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23302; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.107,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23302\\sub-23302_ses-23302-240623_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23302; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.029,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23302\\sub-23302_ses-23302-240624_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23302; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.04,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23302\\sub-23302_ses-23302-240625_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23302; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.108,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23302\\sub-23302_ses-23302-240626_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23302; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.103,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23302\\sub-23302_ses-23302-240627_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23302; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.117,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23302\\sub-23302_ses-23302-240628_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23302; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.114,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23302\\sub-23302_ses-23302-240629_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23302; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.067,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23302\\sub-23302_ses-23302-240630_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23302; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.038,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23302\\sub-23302_ses-23302-240701_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23302; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.108,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23302\\sub-23302_ses-23302-240702_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23302; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.01,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23302\\sub-23302_ses-23302-240704_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23302; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.11,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23302\\sub-23302_ses-23302-240705_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23302; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.115,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23302\\sub-23302_ses-23302-240706_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23302; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.104,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23311\\sub-23311_ses-23311-240516_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23311; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.111,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23311\\sub-23311_ses-23311-240517_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23311; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.128,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23311\\sub-23311_ses-23311-240518_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23311; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.115,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23311\\sub-23311_ses-23311-240519_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23311; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.108,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23311\\sub-23311_ses-23311-240520_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23311; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.121,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23311\\sub-23311_ses-23311-240521_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23311; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.108,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23311\\sub-23311_ses-23311-240522_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23311; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.12,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23311\\sub-23311_ses-23311-240524_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23311; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.651,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23311\\sub-23311_ses-23311-240525_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23311; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.079,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23311\\sub-23311_ses-23311-240526_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23311; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.105,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23311\\sub-23311_ses-23311-240527_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23311; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.01,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23311\\sub-23311_ses-23311-240528_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23311; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.007,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23311\\sub-23311_ses-23311-240529_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23311; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.115,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23311\\sub-23311_ses-23311-240530_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23311; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.107,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23311\\sub-23311_ses-23311-240531_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23311; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.032,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23311\\sub-23311_ses-23311-240601_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23311; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.046,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23311\\sub-23311_ses-23311-240602_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23311; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.094,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23311\\sub-23311_ses-23311-240603_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23311; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.105,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23312\\sub-23312_ses-23312-240418_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23312; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.11,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23312\\sub-23312_ses-23312-240419_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23312; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.623,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23312\\sub-23312_ses-23312-240423_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23312; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.058,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23312\\sub-23312_ses-23312-240424_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23312; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.119,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23312\\sub-23312_ses-23312-240425_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23312; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.107,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23312\\sub-23312_ses-23312-240426_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23312; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.105,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23312\\sub-23312_ses-23312-240427_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23312; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.115,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23312\\sub-23312_ses-23312-240428_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23312; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.108,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23312\\sub-23312_ses-23312-240429_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23312; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.104,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23312\\sub-23312_ses-23312-240430_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23312; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.106,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23312\\sub-23312_ses-23312-240501_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23312; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.116,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23312\\sub-23312_ses-23312-240503_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23312; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.116,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23312\\sub-23312_ses-23312-240504_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23312; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.07,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23312\\sub-23312_ses-23312-240505_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23312; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.105,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23312\\sub-23312_ses-23312-240506_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23312; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.019,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23312\\sub-23312_ses-23312-240507_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23312; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.061,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23312\\sub-23312_ses-23312-240508_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23312; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.041,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23312\\sub-23312_ses-23312-240509_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23312; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.142,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23312\\sub-23312_ses-23312-240510_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23312; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.112,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23312\\sub-23312_ses-23312-240511_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23312; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.02,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23312\\sub-23312_ses-23312-240512_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23312; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.118,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23312\\sub-23312_ses-23312-240513_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23312; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.228,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23317\\sub-23317_ses-23317-240605_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23317; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.109,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23317\\sub-23317_ses-23317-240606_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23317; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.089,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23317\\sub-23317_ses-23317-240607_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23317; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.111,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23317\\sub-23317_ses-23317-240608_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23317; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.108,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23317\\sub-23317_ses-23317-240609_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23317; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.115,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23317\\sub-23317_ses-23317-240611_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23317; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.117,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23317\\sub-23317_ses-23317-240612_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23317; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.102,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23317\\sub-23317_ses-23317-240613_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23317; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.109,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23317\\sub-23317_ses-23317-240614_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23317; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.035,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23317\\sub-23317_ses-23317-240615_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23317; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.113,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23317\\sub-23317_ses-23317-240616_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23317; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.047,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23317\\sub-23317_ses-23317-240617_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23317; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.117,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23317\\sub-23317_ses-23317-240618_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23317; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.107,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23317\\sub-23317_ses-23317-240619_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23317; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.121,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  },
+  {
+    "path": "F:\\DANDI\\002020-0.261004.1410\\002020-0.261004.1410\\sub-23317\\sub-23317_ses-23317-240620_ecephys.nwb",
+    "nwb_version": "2.7.0",
+    "subject_description": "Culture/dish identifier 23317; this is not a donor animal identifier. Age P18D with gestational reference describes donor age at dissection (E18), not culture age at recording. Days in vitro and donor sex are unknown.",
+    "experiment_description": "Development of spontaneous activity in dissociated E18 rat cortical cultures. Days in vitro are unknown to this converter and are not inferred from the date list.",
+    "event_description": "Unsorted channel-level spike detections; one row per source event, in original order. Multiple electrodes may detect the same neuron, and a channel may detect multiple neurons.",
+    "provenance": {
+      "converter_version": "2.0.1",
+      "sampling_rate_hz": 20000.0,
+      "sampling_rate_basis": "Verified against source settings/sampling",
+      "duration_s": 1800.051,
+      "timestamp_method": "Source start_time interpreted as Unix milliseconds",
+      "recording_frame_origin": "unknown",
+      "source_timestamp_interpretation": "Unix milliseconds; verified against directory date"
+    }
+  }
+]

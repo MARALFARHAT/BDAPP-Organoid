@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "data_checks": "920 one-to-one metadata joins; plate and age agree with filenames; source MD5 and SHA256 verified",
+  "evaluation_checks": "All 88 fold score rows independently recomputed with sklearn from 10720 saved held-out predictions; all split memberships checked for plate/batch/well separation; unseen cell lines separate",
+  "prespecified_plan_sha256": "a2140853c3f1eed85725e9e1b22166a01947820040f9cb8c45edb7f8d9063f0e",
+  "scope": "Modest within-study prediction of days post dissociation in organoid-derived 2D cultures; not validation of intact-organoid age/lifespan."
+}

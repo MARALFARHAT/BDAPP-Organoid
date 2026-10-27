@@ -1,0 +1,22 @@
+{
+  "checked_utc": "2026-10-27T08:11:05.540650+00:00",
+  "full_derived_data_run": "PASS",
+  "reference_audit_command": "python run_project.py --check-only",
+  "reference_audit": "PASS",
+  "negative_control": "Altered saved MAE rejected by independent prediction-metric check",
+  "python_syntax": "All packaged Python files parsed",
+  "input_archives_crc": "All four frozen derived input ZIPs passed",
+  "zenodo_user_upload": {
+    "processed": 45,
+    "skipped": 0,
+    "detected_events": 856988,
+    "comparison": "All 45 organoid IDs, SHA256 source hashes, and derived feature values match independently tested public files; local source paths may differ.",
+    "amplitude_mismatch": "fs417-org0: 33096 event times retained; mismatched amplitudes withheld"
+  },
+  "not_verified": [
+    "Continuous recording exposure",
+    "Individual biological age/death labels",
+    "Unseen prospective population generalization",
+    "Execution of this combined launcher on the user PC"
+  ]
+}

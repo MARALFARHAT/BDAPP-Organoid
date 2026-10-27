@@ -1,0 +1,51 @@
+{
+  "status": "PASS",
+  "input_archives_hash_verified": 4,
+  "scope": "Derived-table bookkeeping, metadata labels, predictor lists, splits and prediction metrics; raw acquisition and biological endpoints remain unverified.",
+  "inventory": [
+    {
+      "dataset": "FS369",
+      "track": "exploratory experiment-level models",
+      "recordings_or_grid_windows": 510,
+      "event_containing_windows": 509,
+      "eligible_model_windows": 509,
+      "detected_events": 94154693,
+      "units": "aggregate experiment"
+    },
+    {
+      "dataset": "FS437",
+      "track": "exploratory experiment-level models",
+      "recordings_or_grid_windows": 138,
+      "event_containing_windows": 115,
+      "eligible_model_windows": 115,
+      "detected_events": 2643769,
+      "units": "aggregate experiment"
+    },
+    {
+      "dataset": "DANDI 002020",
+      "track": "descriptive rat cortical cultures",
+      "recordings_or_grid_windows": 129,
+      "event_containing_windows": null,
+      "eligible_model_windows": null,
+      "detected_events": 130035509,
+      "units": "7 cultures"
+    },
+    {
+      "dataset": "Zenodo 22755004",
+      "track": "descriptive human forebrain organoids",
+      "recordings_or_grid_windows": 45,
+      "event_containing_windows": null,
+      "eligible_model_windows": null,
+      "detected_events": 856988,
+      "units": "16 experiment prefixes"
+    }
+  ],
+  "hourly_score_rows": 58,
+  "hourly_prediction_rows": 5678,
+  "six_hour_score_rows": 28,
+  "six_hour_prediction_rows": 518,
+  "all_primary_hourly_transfer_R2_negative": true,
+  "zenodo_amplitude_mismatch_recording": "fs417-org0",
+  "biological_lifespan_prediction_validated": false,
+  "continuous_recording_exposure_verified": false
+}

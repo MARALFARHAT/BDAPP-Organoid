@@ -1,0 +1,17 @@
+{
+  "record": "https://zenodo.org/records/22755004",
+  "verified_files": [
+    {
+      "key": "all_fig_table_data_revision2.xlsx",
+      "checksum": "md5:922729660e0f3f651da4e0e282f544bc"
+    },
+    {
+      "key": "analysis_scripts.zip",
+      "checksum": "md5:007e34b026c7c4632b5c89c11ad046e1"
+    },
+    {
+      "key": "Indiv_organoids.zip",
+      "checksum": "md5:0ca4215ca670bfcd7d66eb7da378fac9"
+    }
+  ]
+}

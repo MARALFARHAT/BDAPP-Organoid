@@ -1,0 +1,34 @@
+{
+  "target": "age_DPD: days after organoid dissociation, not intact-organoid biological age or lifespan",
+  "source_doi": "10.18742/30394168",
+  "source_file": "Well_averages_developmenttimecourse_withNAP.csv",
+  "metadata_join": "recording_filename_well, one to one; cell_line/batch/age_DPD must agree",
+  "eligibility": "All rows in the published development-withNAP table with no treatment or vehicle control; no activity-based exclusion",
+  "primary_protocol": "Leave one connected plate/batch component out. Link plates sharing any cell_line + batch, so plates 41/42 stay together.",
+  "secondary_protocol": "Leave one donor cell line out, excluding all linked plate/batch groups of that line from training. Evaluate only that donor line.",
+  "sensitivity": "Primary protocol after restricting to no-treatment rows, with its smaller age range reported separately.",
+  "features": [
+    "Mean Firing Rate (Hz)",
+    "Number of Bursts",
+    "Area Under Normalized Cross-Correlation",
+    "Number of Network Bursts",
+    "NDmean",
+    "sigEdgesMean"
+  ],
+  "transforms": "log1p mean firing rate, burst count, network burst count; retain other source columns",
+  "models": {
+    "training_median": "Training-target median",
+    "firing_rate_ridge": "Log firing rate only; Ridge alpha10",
+    "activity_ridge": "All six features; Ridge alpha10",
+    "activity_forest": "All six features; 200 trees, max_depth4, min_samples_leaf5, seed42, n_jobs1"
+  },
+  "preprocessing": "Fit median imputation with indicators and scaling inside each training fold only.",
+  "evaluation": "Retain all pooled and per-fold MAE/RMSE/R2 and all predictions. No clipping, tuning, or claims of independent organoid replication.",
+  "limits": [
+    "Published five-minute well averages, not a one-hour recording model.",
+    "Organoid-derived dissociated 2D cultures, not intact organoids.",
+    "Five sampled ages and only six donor lines; repeated wells are dependent.",
+    "Late timepoints contain fewer vehicle-control wells; missingness/selection may affect prediction.",
+    "External transfer to FinalSpark is not tested; remaining lifespan is not predicted."
+  ]
+}

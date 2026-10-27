@@ -1,0 +1,425 @@
+{
+  "files": [
+    {
+      "id": 58872421,
+      "name": "README.txt",
+      "size": 8713,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/58872421",
+      "supplied_md5": "1563f1f053e766a10bf719f2e4e36ebe",
+      "computed_md5": "1563f1f053e766a10bf719f2e4e36ebe",
+      "mimetype": "text/rtf"
+    },
+    {
+      "id": 58872424,
+      "name": "metadata.csv",
+      "size": 43453,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/58872424",
+      "supplied_md5": "fb928e67031c17fa25ab14c5b2755520",
+      "computed_md5": "fb928e67031c17fa25ab14c5b2755520",
+      "mimetype": "text/csv"
+    },
+    {
+      "id": 58872427,
+      "name": "Well_averages_chLTP_withNAP.csv",
+      "size": 52213,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/58872427",
+      "supplied_md5": "0e19557ac7c2854337081a74c0b6c5c9",
+      "computed_md5": "0e19557ac7c2854337081a74c0b6c5c9",
+      "mimetype": "text/csv"
+    },
+    {
+      "id": 58872430,
+      "name": "Well_averages_developmenttimecourse.csv",
+      "size": 873365,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/58872430",
+      "supplied_md5": "85b9517b9c3f56d56eb6f11a8c4fd314",
+      "computed_md5": "85b9517b9c3f56d56eb6f11a8c4fd314",
+      "mimetype": "text/csv"
+    },
+    {
+      "id": 58872433,
+      "name": "Well_averages_chLTP.csv",
+      "size": 308539,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/58872433",
+      "supplied_md5": "b0444e0dba6b5e6fbad3c49950e67ffe",
+      "computed_md5": "b0444e0dba6b5e6fbad3c49950e67ffe",
+      "mimetype": "text/csv"
+    },
+    {
+      "id": 58872436,
+      "name": "Well_averages_developmenttimecourse_withNAP.csv",
+      "size": 538967,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/58872436",
+      "supplied_md5": "1f2e7b2a29ed63fa0c309e9eced00637",
+      "computed_md5": "1f2e7b2a29ed63fa0c309e9eced00637",
+      "mimetype": "text/csv"
+    },
+    {
+      "id": 58872439,
+      "name": "Well_Averages_E2.csv",
+      "size": 307461,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/58872439",
+      "supplied_md5": "e02f53ce6b5d5325f9a24a905faac602",
+      "computed_md5": "e02f53ce6b5d5325f9a24a905faac602",
+      "mimetype": "text/csv"
+    }
+  ],
+  "folder_structure": {
+    "58872421": "",
+    "58872424": "",
+    "58872427": "Well_average_CSVs",
+    "58872430": "Well_average_CSVs",
+    "58872433": "Well_average_CSVs",
+    "58872436": "Well_average_CSVs",
+    "58872439": "Well_average_CSVs"
+  },
+  "authors": [
+    {
+      "id": 20917388,
+      "full_name": "Adam Pavlinek",
+      "first_name": "Adam",
+      "last_name": "Pavlinek",
+      "is_active": true,
+      "url_name": "Adam_Pavlinek",
+      "orcid_id": "0000-0002-0138-8321"
+    },
+    {
+      "id": 22276579,
+      "full_name": "Sara Guerrisi",
+      "first_name": "Sara",
+      "last_name": "Guerrisi",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 22445599,
+      "full_name": "Kara O'Driscoll",
+      "first_name": "Kara",
+      "last_name": "O'Driscoll",
+      "is_active": true,
+      "url_name": "Kara_O_Driscoll",
+      "orcid_id": ""
+    },
+    {
+      "id": 10025745,
+      "full_name": "Deepak P. Srivastava",
+      "first_name": "Deepak P.",
+      "last_name": "Srivastava",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": "0000-0001-6512-9065"
+    },
+    {
+      "id": 5556476,
+      "full_name": "Lucia Dutan Polit",
+      "first_name": "Lucia Dutan",
+      "last_name": "Polit",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 14184062,
+      "full_name": "Anthony C Vernon",
+      "first_name": "Anthony C",
+      "last_name": "Vernon",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": "0000-0001-7305-1069"
+    },
+    {
+      "id": 6489917,
+      "full_name": "Roland Nagy",
+      "first_name": "Roland",
+      "last_name": "Nagy",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 11284485,
+      "full_name": "Madeline A Lancaster",
+      "first_name": "Madeline A",
+      "last_name": "Lancaster",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    }
+  ],
+  "custom_fields": [
+    {
+      "name": "Temporal coverage",
+      "value": "N/A",
+      "settings": {
+        "validations": {
+          "min_length": 1,
+          "max_length": 250
+        },
+        "placeholder": "Temporal coverage"
+      },
+      "field_type": "text",
+      "order": null,
+      "is_mandatory": false
+    },
+    {
+      "name": "Geospatial coverage",
+      "value": "N/A",
+      "settings": {
+        "validations": {
+          "min_length": 1,
+          "max_length": 250
+        },
+        "placeholder": "Geospatial coverage"
+      },
+      "field_type": "text",
+      "order": null,
+      "is_mandatory": false
+    },
+    {
+      "name": "Data collection from date",
+      "value": "2023/01/01",
+      "settings": {
+        "validations": {
+          "min_length": 1,
+          "max_length": 250
+        },
+        "placeholder": "Enter the date when you started collecting the data (YYYY/MM/DD)."
+      },
+      "field_type": "text",
+      "order": null,
+      "is_mandatory": false
+    },
+    {
+      "name": "Data collection to date",
+      "value": "2025/09/26",
+      "settings": {
+        "validations": {
+          "min_length": 1,
+          "max_length": 250
+        },
+        "placeholder": "Enter the date when you completed data collection (YYYY/MM/DD)"
+      },
+      "field_type": "text",
+      "order": null,
+      "is_mandatory": false
+    },
+    {
+      "name": "Collection method",
+      "value": "Continuous MEA recordings were made across all electrodes in real time using the Axion Maestro and\nAxis Navigator software (12.5 kHz sampling rate, 200-3000 Hz band-pass) and were saved as .raw files.\n.raw files were processed using Axion Axis Navigator and Neural Metrics Tool, as well as the Matlab MEA network analysis pipeline",
+      "settings": {
+        "validations": {
+          "min_length": 1,
+          "max_length": 1000
+        },
+        "placeholder": "Add the data collection method"
+      },
+      "field_type": "textarea",
+      "order": null,
+      "is_mandatory": false
+    },
+    {
+      "name": "Language",
+      "value": "English",
+      "settings": {
+        "validations": {
+          "min_length": 1,
+          "max_length": 250
+        },
+        "placeholder": "Language"
+      },
+      "field_type": "text",
+      "order": null,
+      "is_mandatory": false
+    },
+    {
+      "name": "Copyright owner",
+      "value": "The authors, 2025.",
+      "settings": {
+        "validations": {
+          "min_length": 5,
+          "max_length": 1000
+        },
+        "placeholder": "Copyright owner"
+      },
+      "field_type": "textarea",
+      "order": null,
+      "is_mandatory": false
+    }
+  ],
+  "figshare_url": "https://kcl.figshare.com/articles/dataset/Electrophysiological_development_and_functional_plasticity_in_dissociated_human_cerebral_organoids_across_multiple_cell_lines_-_Well_average_data_and_metadata_1_of_4_/30394168",
+  "download_disabled": false,
+  "description": "<p dir=\"ltr\">Microelectrode arrays (MEAs) are increasingly used to profile the development of synchronised activity in neural organoids, yet no organoid study has investigated the consistency of electrophysiological development across cell lines. Here, we used dissociated neural organoids derived from six cell lines on MEAs to characterise functional synapse development using multiple parameters across time. The dissociated organoids had increasing functional connectivity and network activity over time across all cell lines and plasticity in response to synaptic-like stimulation. Like the organoids they were derived from, dissociated organoid cultures contained a diverse mixture of cell types. Variability in activity parameters was associated with differences in cell type composition and regional identity, which in turn were affected by donor cell line and batch effects. These results demonstrate that dissociated cerebral organoids can generate functional neurons, akin to primary neuronal cultures from brain tissue, providing a scalable model for studies of neurodevelopment and synaptic function.</p><p dir=\"ltr\">The raw and well average data deposited here consists of 5-minute recordings of dissociated organoids on MEAs over time, as well as a chemical LTP plasticity treatment.</p>",
+  "funding": "The authors acknowledge funding support from UK Medical Research Council, Grant Nos.  MR/L021064/1 (D.P.S.), MR/Y012968/1 (A.C.V., D.P.S.), MR/X004112/1 (D.P.S.), MR/Y008170/1 (D.P.S.), and MR/Y012968/1 (A.C.V., D.P.S.) and from The Simons Foundation Autism Research Initiative (SFARI). D.P.S. is also a recipient of an Independent Researcher Award from the Brain and Behavior Foundation (formally National Alliance for Research on Schizophrenia and Depression) (Grant No. 25957). A.P. is in receipt of the MRC- Institute for Translational Neurodevelopment (ITND) Ph.D. studentship, as part of the MRC Centre for Neurodevelopmental Disorders (Medical Research Council MR/P502108/1). A.P. and D.P.S. also acknowledge funding from Psychiatry Research Trust. The authors acknowledge use of King's Computational Research, Engineering and Technology Environment (CREATE).",
+  "funding_list": [
+    {
+      "id": 28171049,
+      "title": "The authors acknowledge funding support from UK Medical Research Council, Grant Nos.  MR/L021064/1 (D.P.S.), MR/Y012968/1 (A.C.V., D.P.S.), MR/X004112/1 (D.P.S.), MR/Y008170/1 (D.P.S.), and MR/Y012968/1 (A.C.V., D.P.S.) and from The Simons Foundation Autism Research Initiative (SFARI). D.P.S. is also a recipient of an Independent Researcher Award from the Brain and Behavior Foundation (formally National Alliance for Research on Schizophrenia and Depression) (Grant No. 25957). A.P. is in receipt of the MRC- Institute for Translational Neurodevelopment (ITND) Ph.D. studentship, as part of the MRC Centre for Neurodevelopmental Disorders (Medical Research Council MR/P502108/1). A.P. and D.P.S. also acknowledge funding from Psychiatry Research Trust. The authors acknowledge use of King's Computational Research, Engineering and Technology Environment (CREATE).",
+      "grant_code": "",
+      "funder_name": null,
+      "is_user_defined": 1
+    },
+    {
+      "id": 9195773,
+      "title": "Mechanisms of Oestrogenic Modulation of Neural Circuitry",
+      "grant_code": "MR/L021064/1",
+      "funder_name": "Medical Research Council",
+      "is_user_defined": 0,
+      "url": "https://app.dimensions.ai/details/grant/grant.3959649"
+    },
+    {
+      "id": 23010104,
+      "title": "Building on Brains for Dementia Research (BDR): A UK Nervous Tissue Network (UKNTN) for the Twenty-first Century",
+      "grant_code": "MR/X004112/1",
+      "funder_name": "Medical Research Council",
+      "is_user_defined": 0,
+      "url": "https://app.dimensions.ai/details/grant/grant.13024438"
+    },
+    {
+      "id": 25238143,
+      "title": "ICF: Epigenomics Rare Diseases Node",
+      "grant_code": "MR/Y008170/1",
+      "funder_name": "Medical Research Council",
+      "is_user_defined": 0,
+      "url": "https://app.dimensions.ai/details/grant/grant.13887792"
+    },
+    {
+      "id": 25218313,
+      "title": "MRC Centre for Neurodevelopmental Disorders Training grant",
+      "grant_code": "MR/P502108/1",
+      "funder_name": "Medical Research Council",
+      "is_user_defined": 0,
+      "url": "https://app.dimensions.ai/details/grant/grant.13881690"
+    }
+  ],
+  "version": 1,
+  "status": "public",
+  "size": 2132711,
+  "created_date": "2025-11-25T16:36:17Z",
+  "modified_date": "2026-02-24T10:13:07Z",
+  "is_public": true,
+  "is_confidential": false,
+  "is_metadata_record": false,
+  "confidential_reason": "",
+  "metadata_reason": "",
+  "license": {
+    "value": 2,
+    "name": "CC0",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "tags": [
+    "human induced pluripotent stem cells",
+    "micro-electrode array (MEA)",
+    "cerebral organoid model",
+    "neuronal culture",
+    "functional connectivity",
+    "network dynamics",
+    "electrophysiology",
+    "synaptic plasticity"
+  ],
+  "keywords": [
+    "human induced pluripotent stem cells",
+    "micro-electrode array (MEA)",
+    "cerebral organoid model",
+    "neuronal culture",
+    "functional connectivity",
+    "network dynamics",
+    "electrophysiology",
+    "synaptic plasticity"
+  ],
+  "categories": [
+    {
+      "id": 24139,
+      "title": "Cell development, proliferation and death",
+      "parent_id": 24133,
+      "path": "/24130/24133/24139",
+      "source_id": "310102",
+      "taxonomy_id": 100
+    },
+    {
+      "id": 24145,
+      "title": "Cell neurochemistry",
+      "parent_id": 24133,
+      "path": "/24130/24133/24145",
+      "source_id": "310104",
+      "taxonomy_id": 100
+    },
+    {
+      "id": 24178,
+      "title": "Biochemistry and cell biology not elsewhere classified",
+      "parent_id": 24133,
+      "path": "/24130/24133/24178",
+      "source_id": "310199",
+      "taxonomy_id": 100
+    }
+  ],
+  "references": [
+    "https://doi.org/10.18742/28669838",
+    "https://doi.org/10.18742/30383891",
+    "https://doi.org/10.18742/30393461"
+  ],
+  "has_linked_file": false,
+  "citation": "Pavlinek, Adam; Guerrisi, Sara; O'Driscoll, Kara; Srivastava, Deepak P.; Polit, Lucia Dutan; Vernon, Anthony C; et al. (2025). Electrophysiological development and functional plasticity in dissociated human cerebral organoids across multiple cell lines - Well average data and metadata (1 of 4). King's College London. Dataset. https://doi.org/10.18742/30394168.v1",
+  "related_materials": [
+    {
+      "id": 232579051,
+      "identifier": "10.18742/28669838",
+      "title": "RAW DATA (1 of 3)",
+      "relation": "Describes",
+      "identifier_type": "DOI",
+      "is_linkout": true,
+      "link": "https://doi.org/10.18742/28669838"
+    },
+    {
+      "id": 232579075,
+      "identifier": "10.18742/30383891",
+      "title": "RAW DATA (2 of 3)",
+      "relation": "Describes",
+      "identifier_type": "DOI",
+      "is_linkout": true,
+      "link": "https://doi.org/10.18742/30383891"
+    },
+    {
+      "id": 232579093,
+      "identifier": "10.18742/30393461",
+      "title": "RAW DATA (3 of 3)",
+      "relation": "Describes",
+      "identifier_type": "DOI",
+      "is_linkout": true,
+      "link": "https://doi.org/10.18742/30393461"
+    }
+  ],
+  "is_embargoed": false,
+  "embargo_date": "2027-10-19",
+  "embargo_type": null,
+  "embargo_title": "",
+  "embargo_reason": "",
+  "embargo_options": [],
+  "id": 30394168,
+  "title": "Electrophysiological development and functional plasticity in dissociated human cerebral organoids across multiple cell lines - Well average data and metadata (1 of 4)",
+  "doi": "10.18742/30394168.v1",
+  "handle": "",
+  "url": "https://api.figshare.com/v2/articles/30394168",
+  "published_date": "2025-11-25T16:36:17Z",
+  "thumb": "",
+  "defined_type": 3,
+  "defined_type_name": "dataset",
+  "group_id": 36291,
+  "url_private_api": "https://api.figshare.com/v2/account/articles/30394168",
+  "url_public_api": "https://api.figshare.com/v2/articles/30394168",
+  "url_private_html": "https://figshare.com/account/articles/30394168",
+  "url_public_html": "https://kcl.figshare.com/articles/dataset/Electrophysiological_development_and_functional_plasticity_in_dissociated_human_cerebral_organoids_across_multiple_cell_lines_-_Well_average_data_and_metadata_1_of_4_/30394168",
+  "timeline": {
+    "posted": "2025-11-25T16:36:17",
+    "firstOnline": "2025-11-25"
+  },
+  "resource_title": null,
+  "resource_doi": null
+}

@@ -1,0 +1,28 @@
+                                 target                                model   MAE_days           R2
+                batch_calendar_age_days                      training_median  98.087319 -4057.396231
+                batch_calendar_age_days                     count_only_ridge  83.546629 -2969.505154
+                batch_calendar_age_days                    rich_neural_ridge  88.742246 -3519.282562
+                batch_calendar_age_days                   rich_neural_forest  91.630119 -3548.350167
+                batch_calendar_age_days               environment_only_ridge 119.904078 -6064.171006
+                batch_calendar_age_days             neural_environment_ridge 102.324407 -4677.136307
+                batch_calendar_age_days            neural_environment_forest  91.636915 -3548.937277
+                batch_calendar_age_days neural_environment_stimulation_ridge 102.333063 -4683.900433
+days_until_recorded_experiment_endpoint                      training_median   7.398430   -23.083456
+days_until_recorded_experiment_endpoint                     count_only_ridge   7.716449   -47.412594
+days_until_recorded_experiment_endpoint                    rich_neural_ridge  13.626937  -199.776197
+days_until_recorded_experiment_endpoint                   rich_neural_forest   2.822576    -7.989921
+days_until_recorded_experiment_endpoint               environment_only_ridge  29.215189  -361.090042
+days_until_recorded_experiment_endpoint             neural_environment_ridge  15.459417  -318.727859
+days_until_recorded_experiment_endpoint            neural_environment_forest   2.837306    -8.052726
+days_until_recorded_experiment_endpoint neural_environment_stimulation_ridge  15.471771  -324.829893
+
+Two aggregate experiments share the same reported batch and creation time. Independent biological replication is unverified.
+Hourly windows are dependent observations, not independent organoids. No window-bootstrap confidence intervals are reported.
+Age is calendar time from the documented Batch Start, not independently measured maturation.
+Endpoint labels are experiment-level and activity-defined. They are not independently verified individual deaths.
+Exposure is unknown. Counts are not firing rates; channel timing and bursts can be affected by recording gaps and detection conditions.
+Zero exported stimulation records does not establish spontaneous activity. The sensitivity check excludes only hours with logged triggers, without a pre/post-stimulation guard.
+Amplitude is the documented max_voltage_uv field, with no artifact rejection. It is not a waveform-based health measure.
+Train/test ages and environmental measurements differ markedly. All FS437 results are exploratory after earlier inspection of this experiment.
+All configurations and ablations are retained. There is no test-set tuning, clipping, selected winner, or population validation claim.
+DANDI is a separate rat-culture descriptive track, not age/lifespan validation. Zenodo remains pending.

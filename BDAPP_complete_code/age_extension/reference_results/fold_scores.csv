@@ -1,0 +1,89 @@
+protocol,fold,model,train_recordings,test_recordings,MAE_days,RMSE_days,R2,predictors
+plate_and_batch_group_holdout,2,training_median,812,108,8.333333333333334,10.181682899534175,-0.035643808584114645,log_Mean Firing Rate (Hz)
+plate_and_batch_group_holdout,2,firing_rate_ridge,812,108,8.013994709437807,9.42135667775396,0.11325617987096792,log_Mean Firing Rate (Hz)
+plate_and_batch_group_holdout,2,activity_ridge,812,108,7.060169022534348,8.728657232661787,0.23885717514686544,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+plate_and_batch_group_holdout,2,activity_forest,812,108,6.556560382676616,8.459744934310336,0.2850332964182606,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+plate_and_batch_group_holdout,3,training_median,812,108,8.333333333333334,10.181682899534175,-0.035643808584114645,log_Mean Firing Rate (Hz)
+plate_and_batch_group_holdout,3,firing_rate_ridge,812,108,7.99176296803056,9.444822948674133,0.10883335926542592,log_Mean Firing Rate (Hz)
+plate_and_batch_group_holdout,3,activity_ridge,812,108,5.409557022390832,6.5366551804427315,0.5731429777024281,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+plate_and_batch_group_holdout,3,activity_forest,812,108,5.513082145588869,6.719751612615398,0.5488949185304604,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+plate_and_batch_group_holdout,4,training_median,812,108,8.333333333333334,10.181682899534175,-0.035643808584114645,log_Mean Firing Rate (Hz)
+plate_and_batch_group_holdout,4,firing_rate_ridge,812,108,8.542426081343775,10.017257392426883,-0.0024643683962279894,log_Mean Firing Rate (Hz)
+plate_and_batch_group_holdout,4,activity_ridge,812,108,7.332639899050008,8.452839188365964,0.28620008412747844,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+plate_and_batch_group_holdout,4,activity_forest,812,108,7.130677300002462,8.223544330370538,0.3244004452837783,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+plate_and_batch_group_holdout,41,training_median,740,180,7.8,9.848857801796104,-0.25894093216428216,log_Mean Firing Rate (Hz)
+plate_and_batch_group_holdout,41,firing_rate_ridge,740,180,7.774973282207596,9.125587151401605,-0.08082468233795925,log_Mean Firing Rate (Hz)
+plate_and_batch_group_holdout,41,activity_ridge,740,180,6.85708873224876,8.03815842198952,0.1614156706376768,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+plate_and_batch_group_holdout,41,activity_forest,740,180,6.071170000410618,7.243596412866155,0.3190078436023497,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+plate_and_batch_group_holdout,5,training_median,816,104,8.076923076923077,9.9498743710662,-0.06962025316455711,log_Mean Firing Rate (Hz)
+plate_and_batch_group_holdout,5,firing_rate_ridge,816,104,7.847985996696948,9.241989565516075,0.07716220938375817,log_Mean Firing Rate (Hz)
+plate_and_batch_group_holdout,5,activity_ridge,816,104,7.402140633872021,8.867563938209432,0.15042234730205373,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+plate_and_batch_group_holdout,5,activity_forest,816,104,7.5471053844981295,8.913957007580768,0.14150950063440038,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+plate_and_batch_group_holdout,6,training_median,816,104,8.076923076923077,9.9498743710662,-0.06962025316455711,log_Mean Firing Rate (Hz)
+plate_and_batch_group_holdout,6,firing_rate_ridge,816,104,7.74351082685409,9.235734474132567,0.07841096242430301,log_Mean Firing Rate (Hz)
+plate_and_batch_group_holdout,6,activity_ridge,816,104,7.219895045388514,8.728660546614476,0.1768298155909679,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+plate_and_batch_group_holdout,6,activity_forest,816,104,6.997016700062161,8.766513910828726,0.16967469127097845,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+plate_and_batch_group_holdout,7,training_median,816,104,8.076923076923077,9.9498743710662,-0.06962025316455711,log_Mean Firing Rate (Hz)
+plate_and_batch_group_holdout,7,firing_rate_ridge,816,104,8.177536631481468,9.600103833436235,0.004259243028004844,log_Mean Firing Rate (Hz)
+plate_and_batch_group_holdout,7,activity_ridge,816,104,7.522249699200667,8.993297913142483,0.12615906898631457,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+plate_and_batch_group_holdout,7,activity_forest,816,104,7.180830915626138,8.881559473820626,0.1477384811337945,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+plate_and_batch_group_holdout,8,training_median,816,104,8.076923076923077,9.9498743710662,-0.06962025316455711,log_Mean Firing Rate (Hz)
+plate_and_batch_group_holdout,8,firing_rate_ridge,816,104,7.75346003948439,9.17696662036967,0.090101965005557,log_Mean Firing Rate (Hz)
+plate_and_batch_group_holdout,8,activity_ridge,816,104,8.24906406163381,9.626463075196536,-0.0012163237528881599,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+plate_and_batch_group_holdout,8,activity_forest,816,104,6.178343141506338,7.569914994999578,0.3808777264846701,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+unseen_cell_line_excluding_linked_plates,272XX,training_median,608,156,8.076923076923077,9.9498743710662,-0.06962025316455711,log_Mean Firing Rate (Hz)
+unseen_cell_line_excluding_linked_plates,272XX,firing_rate_ridge,608,156,8.153934614735489,9.611286702363818,0.00193807565010784,log_Mean Firing Rate (Hz)
+unseen_cell_line_excluding_linked_plates,272XX,activity_ridge,608,156,7.619954647680757,8.95179067490359,0.13420662239149983,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+unseen_cell_line_excluding_linked_plates,272XX,activity_forest,608,156,7.372690626447643,8.82164866255062,0.15919760988324283,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+unseen_cell_line_excluding_linked_plates,59XY,training_median,608,156,8.076923076923077,9.9498743710662,-0.06962025316455711,log_Mean Firing Rate (Hz)
+unseen_cell_line_excluding_linked_plates,59XY,firing_rate_ridge,608,156,7.5858646896857955,9.017500880298599,0.12144933900233768,log_Mean Firing Rate (Hz)
+unseen_cell_line_excluding_linked_plates,59XY,activity_ridge,608,156,7.8134582774764505,9.27114770967453,0.07132998367037724,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+unseen_cell_line_excluding_linked_plates,59XY,activity_forest,608,156,6.61455322006083,8.233694589085042,0.26753996975517946,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+unseen_cell_line_excluding_linked_plates,H1,training_median,708,106,8.20754716981132,10.068632404183104,-0.05049800796812742,log_Mean Firing Rate (Hz)
+unseen_cell_line_excluding_linked_plates,H1,firing_rate_ridge,708,106,8.492805927176995,9.916603879477579,-0.019014100263529565,log_Mean Firing Rate (Hz)
+unseen_cell_line_excluding_linked_plates,H1,activity_ridge,708,106,8.223901471409818,9.621494326349195,0.04073341087810589,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+unseen_cell_line_excluding_linked_plates,H1,activity_forest,708,106,8.326489601741898,9.616716981596523,0.04168578050356886,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+unseen_cell_line_excluding_linked_plates,H9,training_median,708,106,8.20754716981132,10.068632404183104,-0.05049800796812742,log_Mean Firing Rate (Hz)
+unseen_cell_line_excluding_linked_plates,H9,firing_rate_ridge,708,106,7.6921360029443075,8.96729032838299,0.16674731077050042,log_Mean Firing Rate (Hz)
+unseen_cell_line_excluding_linked_plates,H9,activity_ridge,708,106,5.8508484202833415,7.030857687667859,0.48776308046965766,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+unseen_cell_line_excluding_linked_plates,H9,activity_forest,708,106,5.858829925924288,7.038293387930666,0.4866790436580375,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+unseen_cell_line_excluding_linked_plates,KOLF,training_median,524,288,8.0,9.974968671630002,-0.1404011461318051,log_Mean Firing Rate (Hz)
+unseen_cell_line_excluding_linked_plates,KOLF,firing_rate_ridge,524,288,7.727604439153028,9.15901588241931,0.038537857485281934,log_Mean Firing Rate (Hz)
+unseen_cell_line_excluding_linked_plates,KOLF,activity_ridge,524,288,6.818857589260573,8.162916042793862,0.23629572124124465,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+unseen_cell_line_excluding_linked_plates,KOLF,activity_forest,524,288,5.841278008271249,7.163500157488052,0.4118540457727067,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+unseen_cell_line_excluding_linked_plates,SCT,training_median,704,108,8.333333333333334,10.181682899534175,-0.035643808584114645,log_Mean Firing Rate (Hz)
+unseen_cell_line_excluding_linked_plates,SCT,firing_rate_ridge,704,108,8.58509984927184,10.050522802148528,-0.00913341099125664,log_Mean Firing Rate (Hz)
+unseen_cell_line_excluding_linked_plates,SCT,activity_ridge,704,108,7.796002509505879,9.275402231913304,0.1405180054678875,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+unseen_cell_line_excluding_linked_plates,SCT,activity_forest,704,108,7.603074802636929,9.092781295173976,0.17402905695225368,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+untreated_only_group_holdout,2,training_median,744,96,7.5,9.027735042633894,-0.12413793103448278,log_Mean Firing Rate (Hz)
+untreated_only_group_holdout,2,firing_rate_ridge,744,96,7.057865058930434,8.166351043899029,0.08014773279736864,log_Mean Firing Rate (Hz)
+untreated_only_group_holdout,2,activity_ridge,744,96,5.961275329730088,7.4100586675829625,0.24263490404108423,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+untreated_only_group_holdout,2,activity_forest,744,96,5.4558356730368365,7.137443546686399,0.297336546453306,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+untreated_only_group_holdout,3,training_median,744,96,7.5,9.027735042633894,-0.12413793103448278,log_Mean Firing Rate (Hz)
+untreated_only_group_holdout,3,firing_rate_ridge,744,96,6.944723882989236,8.228597613084155,0.06607146650959661,log_Mean Firing Rate (Hz)
+untreated_only_group_holdout,3,activity_ridge,744,96,5.372668265909418,6.413040392247702,0.4327298334813716,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+untreated_only_group_holdout,3,activity_forest,744,96,4.9841154652524535,6.1856228157090865,0.47224924664523027,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+untreated_only_group_holdout,4,training_median,744,96,7.5,9.027735042633894,-0.12413793103448278,log_Mean Firing Rate (Hz)
+untreated_only_group_holdout,4,firing_rate_ridge,744,96,7.3238639215446435,8.535866673865122,-0.00497958446898239,log_Mean Firing Rate (Hz)
+untreated_only_group_holdout,4,activity_ridge,744,96,7.130946067726945,8.352429423929916,0.03775065818303136,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+untreated_only_group_holdout,4,activity_forest,744,96,7.098703874148306,8.296993006463028,0.05048147656142887,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+untreated_only_group_holdout,41,training_median,672,168,7.071428571428571,8.209315266382278,-0.06799805950840909,log_Mean Firing Rate (Hz)
+untreated_only_group_holdout,41,firing_rate_ridge,672,168,7.087541119829312,8.291250027196005,-0.08942319652665298,log_Mean Firing Rate (Hz)
+untreated_only_group_holdout,41,activity_ridge,672,168,6.510286712820661,7.7426315129835706,0.04997775079350997,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+untreated_only_group_holdout,41,activity_forest,672,168,5.948877071152383,7.147848073455472,0.19033154205082325,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+untreated_only_group_holdout,5,training_median,744,96,7.5,9.027735042633894,-0.12413793103448278,log_Mean Firing Rate (Hz)
+untreated_only_group_holdout,5,firing_rate_ridge,744,96,6.786438549570998,7.953997878952517,0.12736438264301875,log_Mean Firing Rate (Hz)
+untreated_only_group_holdout,5,activity_ridge,744,96,6.449127754423874,7.726324720368181,0.1766056043507247,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+untreated_only_group_holdout,5,activity_forest,744,96,6.776768985393066,7.950983583438676,0.12802565594329218,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+untreated_only_group_holdout,6,training_median,744,96,7.5,9.027735042633894,-0.12413793103448278,log_Mean Firing Rate (Hz)
+untreated_only_group_holdout,6,firing_rate_ridge,744,96,6.790883744829146,8.015726353177419,0.11376732456520067,log_Mean Firing Rate (Hz)
+untreated_only_group_holdout,6,activity_ridge,744,96,6.196975602614612,7.551723578090764,0.21339960000149005,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+untreated_only_group_holdout,6,activity_forest,744,96,6.22036027260273,7.670074917896234,0.18855104488081487,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+untreated_only_group_holdout,7,training_median,744,96,7.5,9.027735042633894,-0.12413793103448278,log_Mean Firing Rate (Hz)
+untreated_only_group_holdout,7,firing_rate_ridge,744,96,7.234230503192411,8.393996396181855,0.028149303460496822,log_Mean Firing Rate (Hz)
+untreated_only_group_holdout,7,activity_ridge,744,96,6.300863956566912,7.485927011881644,0.22704685203835528,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+untreated_only_group_holdout,7,activity_forest,744,96,6.153154760136776,7.338391063753455,0.25721402200584054,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+untreated_only_group_holdout,8,training_median,744,96,7.5,9.027735042633894,-0.12413793103448278,log_Mean Firing Rate (Hz)
+untreated_only_group_holdout,8,firing_rate_ridge,744,96,6.623347039333477,7.706876131897194,0.18074565913921847,log_Mean Firing Rate (Hz)
+untreated_only_group_holdout,8,activity_ridge,744,96,7.153224385507147,8.350332714306738,0.03823370428108497,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean
+untreated_only_group_holdout,8,activity_forest,744,96,5.423479115670524,6.322976825477603,0.448551228475492,log_Mean Firing Rate (Hz);log_Number of Bursts;Area Under Normalized Cross-Correlation;log_Number of Network Bursts;NDmean;sigEdgesMean

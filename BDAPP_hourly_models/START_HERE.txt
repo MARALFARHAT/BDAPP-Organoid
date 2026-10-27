@@ -1,0 +1,55 @@
+BDAPP HOURLY MODEL COMPARISON
+Maral Farhatnejad, student ID 23012856
+
+Already executed here on your actual uploaded tables. To reproduce locally:
+conda activate fs437-local
+cd F:\BDAPP-Organoid\BDAPP_hourly_models
+python hourly_models.py --input FinalSpark_hourly_summary.zip
+
+This uses the small feature ZIP, not the original event tables.
+Existing verified_results remain unchanged. A local reproduction creates a
+new hourly_model_results_<timestamp> folder and Hourly_model_results.zip.
+
+COMPLETE IN THIS STAGE
+58 score rows, 5678 held-out prediction rows, feature-family ablations,
+all-hours transfer, transfer excluding hours with logged stimulation, and a
+chronological FS369 holdout with a one-hour embargo.
+Preprocessing fits training data only. Hyperparameters are fixed. All results,
+including negative results, remain in the comparison. Raw predictions are not
+clipped to zero. Negative endpoint predictions are counted in score tables.
+
+ALL-HOURS TRANSFER
+509 FS369 training hours, 115 FS437 test hours.
+Batch age MAE: training median 98.09 days, count-only Ridge 83.55 days,
+rich-neural Ridge 88.74 days, rich-neural forest 91.63 days.
+Time to recorded endpoint MAE: training median 7.40 days,
+rich-neural forest 2.82 days with R-squared -7.99.
+None of the tested primary transfer models achieves positive R-squared.
+
+NO-LOGGED-STIMULATION SENSITIVITY
+487 training hours, 66 test hours. This is a selected subset and cannot be
+compared as if it were the same test population as the all-hours protocol.
+Rich-neural forest endpoint MAE is 1.42 days, R-squared -0.04.
+Absence of a log record does not verify spontaneous neural activity.
+
+INTERPRETATION
+Richer features do not improve age transfer here. The two experiments cover
+non-overlapping calendar ages and different environmental conditions.
+Only two aggregate experiment records are available; biological independence
+is unverified. The endpoints are activity-defined. These results do not
+validate individual organoid lifespan prediction, neural intelligence, or
+causal environmental effects. Hourly windows are temporally dependent.
+
+FILES
+hourly_model_comparison.csv: all models and protocols.
+hourly_predictions.csv: all held-out predictions.
+neural_feature_ablations.csv: removed feature family and change in MAE.
+split_membership.csv: exact train/test identities and timestamps.
+audited_model_inputs.csv: prepared feature rows and checked labels.
+feature_range_shift.csv: source/test feature range mismatch.
+hourly_analysis_status.json: exact limits and software versions.
+
+REMAINING DATASET
+Zenodo 22755004 needs its own local reader and descriptive comparison.
+DANDI has already been extracted separately (129 recordings, seven cultures).
+Neither external dataset is automatically biological-age or survival ground truth.

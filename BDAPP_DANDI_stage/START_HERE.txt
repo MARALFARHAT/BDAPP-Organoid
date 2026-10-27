@@ -1,0 +1,57 @@
+BDAPP DANDI CODE STAGE
+Maral Farhatnejad, student ID 23012856
+
+Extract BDAPP_DANDI_stage into F:\BDAPP-Organoid.
+Run in your existing environment:
+conda activate fs437-local
+cd F:\BDAPP-Organoid\BDAPP_DANDI_stage
+python -m pip install "h5py>=3.8,<4"
+python dandi_stage.py --root "F:\DANDI\002020-0.261004.1410"
+
+The reader searches recursively, including the nested version directory.
+Inputs are opened read-only. Event columns stream in chunks of 100,000 rows.
+Outputs appear in F:\BDAPP-Organoid\outputs\DANDI\<timestamp>.
+Upload DANDI_summary.zip from that output folder to continue the project.
+This ZIP contains summaries and figures, not original NWB recordings.
+
+IMPLEMENTED OUTPUTS
+Per recording: event counts, active hardware-channel counts, events divided by
+nominal recording duration, channel interval mean/CV, fixed-ISI burst features,
+mean absolute native amplitude, unresolved mapping counts, metadata and audits.
+Per culture: session counts and recording date coverage.
+Figures: descriptive activity and burst participation over recording elapsed time.
+Unsupported/invalid files are skipped with an explicit reason in the audit.
+
+SCIENTIFIC SCOPE
+These files describe dissociated rat cortical cultures, not human organoids.
+Subject age P18D with gestational reference is donor age at dissection, not
+culture age during recording. Culture age remains blank.
+Days since first successfully processed session is only a recording chronology.
+Source channels are not identified single neurons. The exact source event table
+is processing/ecephys/detected_spikes, rather than a standard NWB Units table.
+Relative times begin at the first detected spike. The initial recording silence
+cannot be reconstructed. No absolute event times are guessed.
+Overall event rate uses the converter-reported recording duration, not a verified
+continuous-exposure measurement. Amplitude retains source-native units.
+A channel burst requires at least five detections joined by intervals <=100 ms.
+No neuron-specific burst claims, biological-age prediction, survival model,
+causal claims or pooled FinalSpark model validation occur in this code stage.
+
+REAL-FILE VERIFICATION
+The reader was tested on actual public assets for cultures 19880 and 23302.
+Downloaded sample SHA-256 values matched DANDI asset metadata.
+Event/channel/ISI totals and chunk boundary handling were checked independently.
+Sample recordings are not included in this bundle.
+The local full-dataset run still needs to be completed on your PC.
+
+DATASET AND LICENSE
+Nakamuta, Asahi; Akita, Dai; Zhang, He; Kawahara, Yuta; Takahashi, Hirokazu;
+Teramae, Jun-nosuke (2026). High-density MEA recordings of spontaneous activity
+in developing rat cortical cultures. Version 0.261004.1410. DANDI Archive.
+https://doi.org/10.48324/dandi.002020/0.261004.1410
+Published asset list: 129 NWB files, seven culture identifiers.
+Dataset license: CC-BY-4.0.
+Metadata endpoint:
+https://api.dandiarchive.org/api/dandisets/002020/versions/0.261004.1410/
+Format reference:
+https://nwb-schema.readthedocs.io/en/stable/format_description.html

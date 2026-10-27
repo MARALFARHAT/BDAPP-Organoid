@@ -1,0 +1,54 @@
+BDAPP ZENODO CODE STAGE
+Maral Farhatnejad, student ID 23012856
+
+Extract BDAPP_Zenodo_stage into F:\BDAPP-Organoid.
+conda activate fs437-local
+cd F:\BDAPP-Organoid\BDAPP_Zenodo_stage
+python zenodo_stage.py --root F:\DANDI\22755004
+
+The reader supports either loose fs*-org*.mat files or Indiv_organoids.zip,
+including nested folders. You do not have to extract the archive first.
+Identical zipped/extracted copies are not counted twice. Different content
+for the same organoid ID is flagged as a conflict.
+It reads individual-organoid spike/amplitude arrays, not raw waveforms.
+Population result MAT files and MATLAB scripts are not executed.
+The included hourly_stage.py supplies shared feature definitions only; importing
+it does not start FinalSpark processing.
+
+OUTPUT
+F:\BDAPP-Organoid\outputs\Zenodo\<timestamp>\Zenodo_summary.zip
+Upload that derived-results ZIP to continue consolidation of the project.
+
+REAL-FILE VERIFICATION
+All 45 public individual-organoid MAT files were tested. Their event counts
+were independently checked against source HDF5 cell-array lengths.
+45 recordings, 16 fs experiment prefixes, 856988 detected events.
+Per-file declared durations: 200, 400, 600, 1000, 1200, 1800, 3600 seconds.
+These differ from the general listing description. Each file's own metadata
+is authoritative for the reader's duration-dependent summaries.
+Per-organoid biological ages and death labels are unavailable in this schema.
+No cohort age range or median is assigned to any individual recording.
+
+DATA QUALITY
+fs417-org0 has amplitude-array length mismatches on all eight channels.
+Its 33096 valid spike times remain included. Amplitude features are missing.
+The mismatch count and channel IDs appear in the feature table.
+Source units for MAT amplitudes remain unverified and are labeled accordingly.
+No observations were removed to obtain a better model score.
+
+METHODS AND LIMITS
+The fixed-ISI channel-burst definition matches the implemented project reader:
+at least five detections linked by intervals <=100 ms. This does not reproduce
+all population-burst/criticality methods in the published MATLAB pipeline.
+Rates divide by file-declared recording duration; continuous coverage is not
+independently confirmed. Related experiment prefixes are retained in outputs.
+This is descriptive external activity analysis, not validation of lifespan,
+age prediction, causality, intelligence or an advantage over conventional AI.
+
+SOURCE
+Itatani, Naoya; Zavaglia, Melissa. Spontaneous activity spike data and RNA-seq
+gene expression data from human forebrain organoids. Zenodo 22755004, v3.
+https://doi.org/10.5281/zenodo.22755004
+https://zenodo.org/records/22755004
+The public individual-organoid archive was verified against the record's MD5
+checksum before testing. Original source recordings are not included here.

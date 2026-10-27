@@ -1,0 +1,40 @@
+{
+  "input_sha256": "fd8ddebd66c67964c96fcdd576bca9e0158c1bd6bb01b104a2ad759321e50fe7",
+  "protocols": [
+    {
+      "name": "FS369_to_FS437_all_hours",
+      "train_hours": 509,
+      "test_hours": 115
+    },
+    {
+      "name": "FS369_to_FS437_no_logged_stim_hours",
+      "train_hours": 487,
+      "test_hours": 66
+    },
+    {
+      "name": "FS369_chronological_holdout",
+      "train_hours": 406,
+      "test_hours": 102
+    }
+  ],
+  "biological_lifespan_prediction_validated": false,
+  "coverage_verified": false,
+  "limitations": [
+    "Two aggregate experiments share the same reported batch and creation time. Independent biological replication is unverified.",
+    "Hourly windows are dependent observations, not independent organoids. No window-bootstrap confidence intervals are reported.",
+    "Age is calendar time from the documented Batch Start, not independently measured maturation.",
+    "Endpoint labels are experiment-level and activity-defined. They are not independently verified individual deaths.",
+    "Exposure is unknown. Counts are not firing rates; channel timing and bursts can be affected by recording gaps and detection conditions.",
+    "Zero exported stimulation records does not establish spontaneous activity. The sensitivity check excludes only hours with logged triggers, without a pre/post-stimulation guard.",
+    "Amplitude is the documented max_voltage_uv field, with no artifact rejection. It is not a waveform-based health measure.",
+    "Train/test ages and environmental measurements differ markedly. All FS437 results are exploratory after earlier inspection of this experiment.",
+    "All configurations and ablations are retained. There is no test-set tuning, clipping, selected winner, or population validation claim.",
+    "DANDI is a separate rat-culture descriptive track, not age/lifespan validation. Zenodo remains pending."
+  ],
+  "software": {
+    "python": "3.11.16",
+    "numpy": "2.4.6",
+    "pandas": "2.3.3",
+    "sklearn": "1.9.1"
+  }
+}
